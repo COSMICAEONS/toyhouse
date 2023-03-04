@@ -5,6 +5,10 @@ Checkmark/Yes color: text-success
 Warning/Ask color: text-warning
 X/No color: text-danger
 Favorite color: #BD00F6 (to change, google a hex color code picker and change numbers.)
+Main Background: bg-faded
+Title Card Background: bg-dark
+You may have to change around the background colors depending on your site theme.
+You can choose from: bg-faded, bg-light, and bg-dark. Just replace the corresponding bg- with what you want.
 
 --- Font Awesome Key ---
 Yes
