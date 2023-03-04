@@ -50,9 +50,9 @@ COSMICAEONS @ toyhouse
 <div class="col-12">
 <div class="col-12 bg-faded p-3 text-center font-weight-bold" style="border-radius:0px;">
   <div class="col-12 card bg-dark rounded-0 border-0 text-uppercase text-primary card rounded-0 border-0">
-    <span class="d-none d-lg-block" style="font-size:2rem;letter-spacing:1px;">Roleplay Information
+    <span class="d-none d-lg-block" style="font-size:2rem;letter-spacing:1px;">Roleplay Preferences
     </span>
-    <span class="d-sm-block d-lg-none" style="font-size:1.2rem;letter-spacing:1px;">Roleplay Information
+    <span class="d-sm-block d-lg-none" style="font-size:1.2rem;letter-spacing:1px;">Roleplay Preferences
     </span>
   </div>
   <!-- DIRECTORY ---------------------->
