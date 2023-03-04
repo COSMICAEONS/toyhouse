@@ -75,14 +75,14 @@ COSMICAEONS @ toyhouse
 <div class="bg-faded p-md-4 p-2 mx-auto mb-2" style="max-width:1010px">
   
 <div class="sticky-top"><ul class="row no-gutters bg-faded justify-content-between" style="list-style:none;">
-  <li class="col"><a href="#I"><i class="fa-regular fa-address-card fa-fw mr-1 text-primary"></i></a></li>
-  <li class="col"><a href="#II"><i class="fa-regular fa-pen-field fa-fw mr-1 text-primary"></i></a></li>
-  <li class="col"><a href="#III"><i class="fa-regular fa-person-rays fa-fw mr-1 text-primary"></i></a></li>
-  <li class="col"><a href="#IV"><i class="fa-regular fa-hands-holding-heart fa-fw mr-1 text-primary"></i></a></li>
-  <li class="col"><a href="#V"><i class="fa-regular fa-do-not-enter fa-fw mr-1 text-primary"></i></a></li>
-  <li class="col"><a href="#VI"><i class="fa-regular fa-palette fa-fw mr-1 text-primary"></i></a></li>
-  <li class="col"><a href="#VII"><i class="fa-regular fa-address-book fa-fw mr-1 text-primary"></i></a></li>
-  <li class="col"><a href="#VIII"><i class="fa-regular fa-circle-question fa-fw mr-1 text-primary"></i></a></li>
+  <li class="col"><a href="#I"><i class="fa-regular fa-address-card fa-fw mr-1 text-primary tooltipster" data-placement="bottom" title="ABOUT ME"></i></a></li>
+  <li class="col"><a href="#II"><i class="fa-regular fa-pen-field fa-fw mr-1 text-primary tooltipster" data-placement="bottom" title="WRITING"></i></a></li>
+  <li class="col"><a href="#III"><i class="fa-regular fa-person-rays fa-fw mr-1 text-primary tooltipster" data-placement="bottom" title="CHARACTERS"></i></a></li>
+  <li class="col"><a href="#IV"><i class="fa-regular fa-hands-holding-heart fa-fw mr-1 text-primary tooltipster" data-placement="bottom" title="SHIPPING"></i></a></li>
+  <li class="col"><a href="#V"><i class="fa-regular fa-do-not-enter fa-fw mr-1 text-primary tooltipster" data-placement="bottom" title="BOUNDARIES"></i></a></li>
+  <li class="col"><a href="#VI"><i class="fa-regular fa-palette fa-fw mr-1 text-primary tooltipster" data-placement="bottom" title="ARTWORK"></i></a></li>
+  <li class="col"><a href="#VII"><i class="fa-regular fa-address-book fa-fw mr-1 text-primary tooltipster" data-placement="bottom" title="MY OCS & WRITING"></i></a></li>
+  <li class="col"><a href="#VIII"><i class="fa-regular fa-circle-question fa-fw mr-1 text-primary tooltipster" data-placement="bottom" title="EXTRAS"></i></a></li>
 </ul>
 </div>
 <!----------------------------------->
