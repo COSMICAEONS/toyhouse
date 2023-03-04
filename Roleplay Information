@@ -1,0 +1,5132 @@
+<!---------------- HOW TO USE ------------------->
+<!-----------------------------------------------
+--- Color Key ---
+Checkmark/Yes color: text-success
+Warning/Ask color: text-warning
+X/No color: text-danger
+Favorite color: #BD00F6 (to change, google a hex color code picker and change numbers.)
+
+--- Font Awesome Key ---
+Yes
+<i class="fa-solid fa-circle-check text-success fa-fw fa-sm mr-1"></i>
+
+Warning/Ask
+<i class="fa-solid fa-triangle-exclamation text-warning fa-fw fa-sm mr-1"></i>
+
+X/No
+<i class="fa-solid fa-circle-x text-danger fa-fw fa-sm mr-1"></i>
+
+Favorite
+<i class="fa-solid fa-circle-heart fa-fw fa-sm mr-1" style="color:#BD00F6"></i>
+
+Blank
+<i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+
+
+--- CODE CREDIT/CONTACT FOR SUPPORT WITH CODE ---
+COSMICAEONS @ toyhouse
+------------------------------------------------->
+
+
+<!----------------------------------->
+<!----------------------------------->
+<!-- HEADER ------------------------->
+<!----------------------------------->
+<!----------------------------------->
+<div class="p-md-4 p-2 mx-auto mb-1" style="max-width:1010px;">
+<!-- D20 DICE ICON ------------------>
+<div class="col-12 mb-2" style="z-index:9999;">
+  <div class="col-12 justify-content-center" style="margin-top:2px;">
+    <span class="badge p-2 bg-primary" style="font-size: 88px; border-radius: 50%; color:#fff; z-index: 7;">
+      <i class="fal fa-dice-d20 px-1" style="color:#fff;"></i>
+    </span>
+  </div>
+</div>
+<!-- TITLE -------------------------->
+<div class="col-12">
+<div class="col-12 bg-faded p-3 text-center font-weight-bold" style="border-radius:0px;">
+  <div class="col-12 card bg-dark rounded-0 border-0 text-uppercase text-primary card rounded-0 border-0">
+    <span class="d-none d-lg-block" style="font-size:2rem;letter-spacing:1px;">Roleplay Information
+    </span>
+    <span class="d-sm-block d-lg-none" style="font-size:1.2rem;letter-spacing:1px;">Roleplay Information
+    </span>
+  </div>
+  <!-- DIRECTORY ---------------------->
+<div class="mx-auto text-center" style="max-width:600px;font-weight:100;letter-spacing:1px;font-size:0.85rem">
+<!-- CREDIT DO NOT REMOVE ---------------------->
+  <a class="tooltipster" data-placement="bottom" title="CREDIT" href="https://toyhou.se/COSMICAEONS">
+    <i class="fa-solid fa-code fa-fw fa-sm"></i>
+  </a>
+</div>
+<!-- HEADER END --------------------->
+</div>
+</div>
+</div>
+
+<!----------------------------------->
+<!----------------------------------->
+<!-- INFORMATION BOX START ---------->
+<!----------------------------------->
+<!----------------------------------->
+<div class="bg-faded p-md-4 p-2 mx-auto mb-2" style="max-width:1010px">
+  
+<div class="sticky-top"><ul class="row no-gutters bg-faded justify-content-between" style="list-style:none;">
+  <li class="col"><a href="#I"><i class="fa-regular fa-address-card fa-fw mr-1 text-primary"></i></a></li>
+  <li class="col"><a href="#II"><i class="fa-regular fa-pen-field fa-fw mr-1 text-primary"></i></a></li>
+  <li class="col"><a href="#III"><i class="fa-regular fa-person-rays fa-fw mr-1 text-primary"></i></a></li>
+  <li class="col"><a href="#IV"><i class="fa-regular fa-hands-holding-heart fa-fw mr-1 text-primary"></i></a></li>
+  <li class="col"><a href="#V"><i class="fa-regular fa-do-not-enter fa-fw mr-1 text-primary"></i></a></li>
+  <li class="col"><a href="#VI"><i class="fa-regular fa-palette fa-fw mr-1 text-primary"></i></a></li>
+  <li class="col"><a href="#VII"><i class="fa-regular fa-address-book fa-fw mr-1 text-primary"></i></a></li>
+  <li class="col"><a href="#VIII"><i class="fa-regular fa-circle-question fa-fw mr-1 text-primary"></i></a></li>
+</ul>
+</div>
+<!----------------------------------->
+<!----------------------------------->
+<!-- ABOUT ME ----------------------->
+<div id="I">
+  <div class="col-12 mb-lg-0">
+<!----------------------------------->
+<!----------------------------------->
+<div class="card bg-dark rounded-0 border-0 p-2 mb-2 font-weight-bold text-center text-primary" style="font-size: 17px; letter-spacing: 1px;">
+  <span>
+  <span class="pull-left"><i class="fal fa-address-card px-1" style="font-size:26px;"></i></span>
+  <span class="">About Me</span>
+  <span class="pull-right"><i class="fal fa-address-card px-1" style="font-size:26px;"></i></span>
+  </span>
+</div>
+<div class="card rounded-0 border-0">
+<div class="row no-gutters">
+<!-- BASICS LIST -------------------->
+<div class="row no-gutters">
+  <div class="col-lg-4 col-12">
+    <div class="px-3 pt-lg-4 pt-2 pb-2 row no-gutters">
+<!-- NAME --------------------------->
+<div class="col-lg-4 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li"><i class="fa-regular fa-signature fa-fw mr-1 text-primary"></i>
+      </span>
+      Name
+    </li>
+  </ul>
+</div>
+<!-- PROUNONS ----------------------->
+<div class="col-lg-4 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li"><i class="fa-regular fa-tags fa-fw mr-1 text-primary"></i>
+      </span>
+      Prounons
+    </li>
+  </ul>
+</div>
+<!-- AGE ---------------------------->
+<div class="col-lg-4 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li"><i class="fa-regular fa-birthday-cake fa-fw mr-1 text-primary"></i>
+      </span>
+      Age
+    </li>
+  </ul>
+</div>
+<!-- TIMEZONE ----------------------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li"><i class="fa-regular fa-clock fa-fw mr-1 text-primary"></i>
+      </span>
+      Timezone
+    </li>
+  </ul>
+</div>
+<!-- LITERACY PREFERENCES ----------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li"><i class="fa-regular fa-books fa-fw mr-1 text-primary"></i>
+      </span>
+      Literary Preferences
+    </li>
+  </ul>
+</div>
+<!-- CONTACT LINKS ------------------>
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li"><i class="fa-regular fa-mailbox fa-fw mr-1 text-primary"></i>
+      </span>
+      Contact
+        <span class="flex-column">
+          <span>
+            <a href="link">Contact</a>
+          </span>
+          <span>
+            <a href="link">Contact</a>
+          </span>
+          <span>
+            <a href="link">Contact</a>
+          </span>
+        </span>
+    </li>
+  </ul>
+</div>
+<!-- RP STATUS ---------------------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li"><i class="fa-regular fa-birthday-cake fa-fw mr-1 text-primary"></i>
+      </span>
+      Status
+      <span class="flex-column">
+        <span>1x1 rp
+          <span class="pull-right text-white">
+            Status
+          </span>
+        </span>
+        <span>1x1x1 rp
+          <span class="pull-right text-white">
+            Status
+          </span>
+        </span>
+        <span>5+ rp
+          <span class="pull-right text-white">
+            Status
+          </span>
+        </span>
+        <span>10+ rp
+          <span class="pull-right text-white">
+            Status
+          </span>
+        </span>
+        <span>Headcanons
+          <span class="pull-right text-white">
+            Status
+          </span>
+        </span>
+      </span>
+    </li>
+  </ul>
+</div>
+<!-- BASICS LIST END ---------------->
+    </div>
+  </div>
+<!-- INTRO -------------------------->
+<div class="col-lg-8 col-12">
+  <div class="row no-gutters">
+    <div class="col-lg-6 col-12 overflow-auto" style="max-height:335px;">
+      <p class="text-justify pt-lg-4 p-3">This box will scroll.
+      <br><br>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Donec ultrices tincidunt arcu non sodales neque. Eget dolor morbi non arcu risus quis. Magna ac placerat vestibulum lectus. Scelerisque viverra mauris in aliquam sem fringilla ut morbi. Phasellus vestibulum lorem sed risus ultricies tristique. Ultrices gravida dictum fusce ut placerat. Aliquet sagittis id consectetur purus ut faucibus pulvinar.
+      </p>
+<!-- INTRO END ---------------------->
+    </div>
+<!-- BULLET POINTS ------------------>
+<div class="col-lg-6 col-12 overflow-auto" style="max-height:335px;">
+  <ul class="pt-lg-3">
+    <li> This box will scroll</li>
+    <li> content</li>
+    <li> content</li>
+    <li> content</li>
+    <li> content</li>
+    <li> content</li>
+    <li> content</li>
+    <li> content</li>
+<!---------- ADD MORE ABOVE THIS LINE ---------->
+  </ul>
+</div>
+<!-- BULLET POINTS END -------------->
+</div>
+</div>
+</div>
+</div>
+</div>
+<!----------------------------------->
+<!-- ABOUT ME PREFERENCES ----------->
+<!----------------------------------->
+<div class="row no-gutters mb-2">
+<!----------------------------------->
+<!-- RP LOCATIONS ------------------->
+<div class="col-lg-6 col-12 mt-2 card rounded-0 border-0">
+  <div class="p-2 font-weight-bold text-center" style="font-size: 17px; color: #fff; letter-spacing: 1px;">
+    <span class="pull-left"></span>
+    <span class="text-primary">RP LOCATIONS</span>
+    <span class="pull-right"></span>
+  </div>
+<!----------------------------------->
+<div class="h-80 px-3 pt-lg-4 pt-2 pb-2 overflow-none">
+  <div class="row no-gutters">
+<!---------- TH COMMENTS ------------>
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> TOYHOUSE COMMENTS
+    </li>
+  </ul>
+</div>
+<!---------- TH MESSAGES ------------>
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> TOYHOUSE MESSAGES
+    </li>
+  </ul>
+</div>
+<!---------- TH FORUMS -------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> TOYHOUSE FORUMS
+    </li>
+  </ul>
+</div>
+<!---------- PRIVATE TH WORLD ------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> PRIVATE TH WORLD
+    </li>
+  </ul>
+</div>
+<!---------- PUBLIC TH WORLD -------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> PUBLIC TH WORLD
+    </li>
+  </ul>
+</div>
+<!---------- DISCORD ---------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> DISCORD
+    </li>
+  </ul>
+</div>
+<!---------- GOOGLE DOCS ------------>
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> GOOGLE DOCS
+    </li>
+  </ul>
+</div>
+<!---------- OTHER ------------------>
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> OTHER
+    </li>
+  </ul>
+</div>
+<!---------- ADD MORE ABOVE THIS LINE ---------->
+</div>
+</div>
+<!---------- BULLET POINTS ---------->
+<div class="card bg-primary rounded-0 border-1 mt-1 mb-1"></div>
+<ul class="overflow-auto" style="height:140px;">
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+</ul>
+<!-- RP LOCATIONS ENDS -------------->
+</div>
+<!----------------------------------->
+<!-- RP PARTNER AGES ---------------->
+<div class="col-lg-6 col-12 mt-2 card rounded-0 border-0">
+  <div class="p-2 font-weight-bold text-center" style="font-size: 17px; color: #fff; letter-spacing: 1px;">
+    <span class="pull-left"></span>
+    <span class="text-primary">RP PARTNER AGES</span>
+    <span class="pull-right"></span>
+  </div>
+<!----------------------------------->
+<div class="h-80 px-3 pt-lg-4 pt-2 pb-2 overflow-none">
+  <div class="row no-gutters">
+<!---------- 13 TO 15 --------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> 13-15
+    </li>
+  </ul>
+</div>
+<!---------- 16 TO 17 --------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> 16-17
+    </li>
+  </ul>
+</div>
+<!---------- 18 TO 21 --------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> 18-21
+    </li>
+  </ul>
+</div>
+<!---------- 22 TO 25 --------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> 22-25
+    </li>
+  </ul>
+</div>
+<!---------- 25 AND ABOVE ----------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> 25+
+    </li>
+  </ul>
+</div>
+<!---------- 30 AND ABOVE ----------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> 30+
+    </li>
+  </ul>
+</div>
+<!---------- DEPENDS ON RP ---------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> DEPENDS ON RP
+    </li>
+  </ul>
+</div>
+<!---------- NO PREFERENCE ---------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> NO PREFERENCE
+    </li>
+  </ul>
+</div>
+<!---------- ADD MORE ABOVE THIS LINE ---------->
+</div>
+</div>
+<!---------- BULLET POINTS ---------->
+<div class="card bg-primary rounded-0 border-1 mt-1 mb-1"></div>
+<ul class="overflow-auto" style="height:140px;">
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+</ul>
+<!-- RP PARTNER AGES END ------------>
+</div>
+<!----------------------------------->
+<!-- GENRES ------------------------->
+<div class="col-lg-6 col-12 mt-2 card rounded-0 border-0">
+  <div class="p-2 font-weight-bold text-center" style="font-size: 17px; color: #fff; letter-spacing: 1px;">
+    <span class="pull-left"></span>
+    <span class="text-primary">GENRES</span>
+    <span class="pull-right"></span>
+  </div>
+<!----------------------------------->
+<div class="h-80 px-3 pt-lg-4 pt-2 pb-2 overflow-none">
+  <div class="row no-gutters">
+<!---------- ACTION -------------->
+<div class="col-lg-4 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> ACTION
+    </li>
+  </ul>
+</div>
+<!---------- ADVENTURE ----------->
+<div class="col-lg-4 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> ADVENTURE
+    </li>
+  </ul>
+</div>
+<!---------- SLICE-OF-LIFE ------->
+<div class="col-lg-4 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> SLICE-OF-LIFE
+    </li>
+  </ul>
+</div>
+<!---------- CRIME --------------->
+<div class="col-lg-4 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> CRIME
+    </li>
+  </ul>
+</div>
+<!---------- MYSTERY ------------->
+<div class="col-lg-4 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> MYSTERY
+    </li>
+  </ul>
+</div>
+<!---------- HORROR -------------->
+<div class="col-lg-4 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> HORROR
+    </li>
+  </ul>
+</div>
+<!---------- SCI-FI -------------->
+<div class="col-lg-4 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> SCI-FI
+    </li>
+  </ul>
+</div>
+<!---------- FANTASY ------------->
+<div class="col-lg-4 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> FANTASY
+    </li>
+  </ul>
+</div>
+<!---------- HISTORICAL ---------->
+<div class="col-lg-4 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> HISTORICAL
+    </li>
+  </ul>
+</div>
+<!---------- ORIGINAL ------------>
+<div class="col-lg-4 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> ORIGINAL
+    </li>
+  </ul>
+</div>
+<!---------- AU ------------------>
+<div class="col-lg-4 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> AU
+    </li>
+  </ul>
+</div>
+<!---------- FANDOM -------------->
+<div class="col-lg-4 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> FANDOM
+    </li>
+  </ul>
+</div>
+<!---------- OTHER --------------->
+<div class="col-lg-4 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> OTHER
+    </li>
+  </ul>
+</div>
+<!---------- COMBINATION --------->
+<div class="col-lg-4 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> COMBINATION
+    </li>
+  </ul>
+</div>
+<!---------- ADAPTABLE ----------->
+<div class="col-lg-4 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> ADAPTABLE
+    </li>
+  </ul>
+</div>
+<!---------- ADD MORE ABOVE THIS LINE ---------->
+</div>
+</div>
+<!---------- BULLET POINTS ---------->
+<div class="card bg-primary rounded-0 border-1 mt-1 mb-1"></div>
+<ul class="overflow-auto" style="height:140px;">
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+</ul>
+<!-- GENRES END --------------------->
+</div>
+<!----------------------------------->
+<!-- OOC --------------->
+<div class="col-lg-6 col-12 mt-2 card rounded-0 border-0">
+  <div class="p-2 font-weight-bold text-center" style="font-size: 17px; color: #fff; letter-spacing: 1px;">
+    <span class="pull-left"></span>
+    <span class="text-primary">OOC</span>
+    <span class="pull-right"></span>
+  </div>
+<!----------------------------------->
+<div class="h-80 px-3 pt-lg-4 pt-2 pb-2 overflow-none">
+  <div class="row no-gutters">
+<!---------- RP/HC TALK ONLY -------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> RP/HC TALK ONLY
+    </li>
+  </ul>
+</div>
+<!---------- CASUAL TALK ------------>
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> CASUAL TALK
+    </li>
+  </ul>
+</div>
+<!---------- PERSONAL TALK ---------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> PERSONAL TALK
+    </li>
+  </ul>
+</div>
+<!---------- VENT TALK -------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> VENT TALK
+    </li>
+  </ul>
+</div>
+<!---------- NSFW TALK -------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> NSFW TALK
+    </li>
+  </ul>
+</div>
+<!---------- POLITICAL TALK -------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> POLITICAL TALK
+    </li>
+  </ul>
+</div>
+<!---------- BEFRIEND ME ------------>
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> BEFRIEND ME
+    </li>
+  </ul>
+</div>
+<!---------- DON'T BEFRIEND ME ------>
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> DON'T BEFRIEND ME
+    </li>
+  </ul>
+</div>
+<!---------- DON'T CARE ------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> DON'T CARE
+    </li>
+  </ul>
+</div>
+<!---------- ADD MORE ABOVE THIS LINE ---------->
+</div>
+</div>
+<!---------- BULLET POINTS ---------->
+<div class="card bg-primary rounded-0 border-1 mt-1 mb-1"></div>
+<ul class="overflow-auto" style="height:140px;">
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+</ul>
+<!-- OOC RELATIONSHIP END ----------->
+</div>
+<!-- ABOUT ME PREFERENCES END ------->
+</div>
+<!-- ABOUT ME END ------------------->
+</div>
+</div>
+<!----------------------------------->
+<!----------------------------------->
+<!-- WRITING ------------------------>
+<div id="II">
+  <div class="col-12 mb-lg-0">
+<!----------------------------------->
+<!----------------------------------->
+<div class="card bg-dark rounded-0 border-0 p-2 mb-2 font-weight-bold text-center text-primary" style="font-size: 17px; letter-spacing: 1px;">
+  <span>
+  <span class="pull-left"><i class="fal fa-pen-field px-1" style="font-size:26px;"></i></span>
+  <span class="text-primary">WRITING</span>
+  <span class="pull-right"><i class="fal fa-pen-field px-1" style="font-size:26px;"></i></span>
+  </span>
+</div>
+<!----------------------------------->
+<!-- WRITING PREFERENCES ------------>
+<!----------------------------------->
+<div class="row no-gutters mb-2">
+<!----------------------------------->
+<!-- MY POV STYLE(S) ---------------->
+<div class="col-lg-6 col-12 mt-2 card rounded-0 border-0">
+  <div class="p-2 font-weight-bold text-center" style="font-size: 17px; color: #fff; letter-spacing: 1px;">
+    <span class="pull-left"></span>
+    <span class="text-primary">MY POV STYLE(S)</span>
+    <span class="pull-right"></span>
+  </div>
+<!----------------------------------->
+<div class="h-80 px-3 pt-lg-4 pt-2 pb-2 overflow-none">
+  <div class="row no-gutters">
+<!---------- 1ST PERSON ------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> 1ST PERSON
+    </li>
+  </ul>
+</div>
+<!---------- 2ND PERSON ------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> 2ND PERSON
+    </li>
+  </ul>
+</div>
+<!---------- 3RD PERSON ------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> 3RD PERSON
+    </li>
+  </ul>
+</div>
+<!---------- PAST TENSE ------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> PAST TENSE
+    </li>
+  </ul>
+</div>
+<!---------- PRESENT TENSE ---------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> PRESENT TENSE
+    </li>
+  </ul>
+</div>
+<!---------- FUTURE TENSE ----------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> FUTURE TENSE
+    </li>
+  </ul>
+</div>
+<!---------- OMNISCIENT ------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> OMNISCIENT
+    </li>
+  </ul>
+</div>
+<!---------- ADAPTABLE -------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> ADAPTABLE
+    </li>
+  </ul>
+</div>
+<!---------- ADD MORE ABOVE THIS LINE ---------->
+</div>
+</div>
+<!---------- BULLET POINTS ---------->
+<div class="card bg-primary rounded-0 border-1 mt-1 mb-1"></div>
+<ul class="overflow-auto" style="height:140px;">
+  <li> What are your point of view styles? Do you have some you'll only use under specific circumstances?</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+</ul>
+<!-- MY POV STYLE(S) END ------------>
+</div>
+<!----------------------------------->
+<!-- MY NARRATIVE STYLE(S) ---------->
+<div class="col-lg-6 col-12 mt-2 card rounded-0 border-0">
+  <div class="p-2 font-weight-bold text-center" style="font-size: 17px; color: #fff; letter-spacing: 1px;">
+    <span class="pull-left"></span>
+    <span class="text-primary">MY NARRATIVE STYLE(S)</span>
+    <span class="pull-right"></span>
+  </div>
+<!----------------------------------->
+<div class="h-80 px-3 pt-lg-4 pt-2 pb-2 overflow-none">
+  <div class="row no-gutters">
+<!---------- HEADCANON -------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> HEADCANON
+    </li>
+  </ul>
+</div>
+<!---------- SCRIPT ----------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> SCRIPT
+    </li>
+  </ul>
+</div>
+<!---------- 1-2 PARAGRAPHS --------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> 1-2 PARAGRAPHS
+    </li>
+  </ul>
+</div>
+<!---------- 3-4 PARAGRAPHS --------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> 3-4 PARAGRAPHS
+    </li>
+  </ul>
+</div>
+<!---------- NOVEL ------------------>
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> NOVEL
+    </li>
+  </ul>
+</div>
+<!---------- ADAPTABLE -------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> ADAPTABLE
+    </li>
+  </ul>
+</div>
+<!---------- DEPENDS ON RP ---------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> DEPENDS ON RP
+    </li>
+  </ul>
+</div>
+<!---------- NO PREFERENCE ---------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> NO PREFERENCE
+    </li>
+  </ul>
+</div>
+<!---------- ADD MORE ABOVE THIS LINE ---------->
+</div>
+</div>
+<!---------- BULLET POINTS ---------->
+<div class="card bg-primary rounded-0 border-1 mt-1 mb-1"></div>
+<ul class="overflow-auto" style="height:140px;">
+  <li> What are your narrative styles? Do you only write a specific way or amount? Are there ways you personally won't?</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+</ul>
+<!-- MY NARRATIVE STYLE(S) END ------->
+</div>
+<!----------------------------------->
+<!-- OTHER'S POV STYLE(S) ----------->
+<div class="col-lg-6 col-12 mt-2 card rounded-0 border-0">
+  <div class="p-2 font-weight-bold text-center" style="font-size: 17px; color: #fff; letter-spacing: 1px;">
+    <span class="pull-left"></span>
+    <span class="text-primary">OTHER'S POV STYLE(S)</span>
+    <span class="pull-right"></span>
+  </div>
+<!----------------------------------->
+<div class="h-80 px-3 pt-lg-4 pt-2 pb-2 overflow-none">
+  <div class="row no-gutters">
+<!---------- 1ST PERSON ------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> 1ST PERSON
+    </li>
+  </ul>
+</div>
+<!---------- 2ND PERSON ------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> 2ND PERSON
+    </li>
+  </ul>
+</div>
+<!---------- 3RD PERSON ------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> 3RD PERSON
+    </li>
+  </ul>
+</div>
+<!---------- PAST TENSE ------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> PAST TENSE
+    </li>
+  </ul>
+</div>
+<!---------- PRESENT TENSE ---------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> PRESENT TENSE
+    </li>
+  </ul>
+</div>
+<!---------- FUTURE TENSE ----------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> FUTURE TENSE
+    </li>
+  </ul>
+</div>
+<!---------- OMNISCIENT ------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> OMNISCIENT
+    </li>
+  </ul>
+</div>
+<!---------- DON'T CARE ------------>
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> DON'T CARE
+    </li>
+  </ul>
+</div>
+<!---------- ADD MORE ABOVE THIS LINE ---------->
+</div>
+</div>
+<!---------- BULLET POINTS ---------->
+<div class="card bg-primary rounded-0 border-1 mt-1 mb-1"></div>
+<ul class="overflow-auto" style="height:140px;">
+  <li> What point of view styles are you comfortable with other's roleplaying, and what aren't you?</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+</ul>
+<!-- OTHER'S POV STYLE(S) END -------->
+</div>
+<!----------------------------------->
+<!-- OTHER'S NARRATIVE STYLE(S) ----->
+<div class="col-lg-6 col-12 mt-2 card rounded-0 border-0">
+  <div class="p-2 font-weight-bold text-center" style="font-size: 17px; color: #fff; letter-spacing: 1px;">
+    <span class="pull-left"></span>
+    <span class="text-primary">OTHER'S NARRATIVE STYLE(S)</span>
+    <span class="pull-right"></span>
+  </div>
+<!----------------------------------->
+<div class="h-80 px-3 pt-lg-4 pt-2 pb-2 overflow-none">
+  <div class="row no-gutters">
+<!---------- HEADCANON -------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> HEADCANON
+    </li>
+  </ul>
+</div>
+<!---------- SCRIPT ----------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> SCRIPT
+    </li>
+  </ul>
+</div>
+<!---------- 1-2 PARAGRAPHS --------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> 1-2 PARAGRAPHS
+    </li>
+  </ul>
+</div>
+<!---------- 3-4 PARAGRAPHS --------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> 3-4 PARAGRAPHS
+    </li>
+  </ul>
+</div>
+<!---------- NOVEL ------------------>
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> NOVEL
+    </li>
+  </ul>
+</div>
+<!---------- DEPENDS ON RP ---------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> DEPENDS ON RP
+    </li>
+  </ul>
+</div>
+<!---------- DON'T CARE ------------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> DON'T CARE
+    </li>
+  </ul>
+</div>
+<!---------- ADD MORE ABOVE THIS LINE ---------->
+</div>
+</div>
+<!---------- BULLET POINTS ---------->
+<div class="card bg-primary rounded-0 border-1 mt-1 mb-1"></div>
+<ul class="overflow-auto" style="height:140px;">
+  <li> What narrative styles are you comfortable with other's roleplaying, and what aren't you?</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+</ul>
+<!-- OTHER'S NARRATIVE STYLE(S) END-->
+</div>
+<!----------------------------------->
+<!-- MY POST SPEED ------------------>
+<div class="col-lg-6 col-12 mt-2 card rounded-0 border-0">
+  <div class="p-2 font-weight-bold text-center" style="font-size: 17px; color: #fff; letter-spacing: 1px;">
+    <span class="pull-left"></span>
+    <span class="text-primary">MY POST SPEED</span>
+    <span class="pull-right"></span>
+  </div>
+<!----------------------------------->
+<div class="px-3 pt-lg-4 pt-2 pb-2 overflow-auto" style="height:120px;">
+  <div class="row no-gutters">
+<!---------- SPEED OF LIGHT --------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> SPEED OF LIGHT
+    </li>
+  </ul>
+</div>
+<!---------- DAILY ------------------>
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> DAILY
+    </li>
+  </ul>
+</div>
+<!---------- WEEKLY ----------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> WEEKLY
+    </li>
+  </ul>
+</div>
+<!---------- MONTHLY ---------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> MONTHLY
+    </li>
+  </ul>
+</div>
+<!---------- YEARLY ----------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> YEARLY
+    </li>
+  </ul>
+</div>
+<!---------- ADAPTABLE -------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> ADAPTABLE
+    </li>
+  </ul>
+</div>
+<!---------- ADD MORE ABOVE THIS LINE ---------->
+</div>
+</div>
+<!---------- BULLET POINTS ---------->
+<div class="card bg-primary rounded-0 border-1 mt-1 mb-1"></div>
+<ul class="overflow-auto" style="height:140px;">
+  <li> Do you have limits on how fast you might post? Do you know your general average posting speed?</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+</ul>
+<!-- MY POST SPEED ENDS ------------->
+</div>
+<!----------------------------------->
+<!-- OTHER'S POST SPEED ------------->
+<div class="col-lg-6 col-12 mt-2 card rounded-0 border-0">
+  <div class="p-2 font-weight-bold text-center" style="font-size: 17px; color: #fff; letter-spacing: 1px;">
+    <span class="pull-left"></span>
+    <span class="text-primary">OTHER'S POST SPEED</span>
+    <span class="pull-right"></span>
+  </div>
+<!----------------------------------->
+<div class="px-3 pt-lg-4 pt-2 pb-2 overflow-auto" style="height:120px;">
+    <div class="row no-gutters">
+<!---------- SPEED OF LIGHT --------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> SPEED OF LIGHT
+    </li>
+  </ul>
+</div>
+<!---------- DAILY ------------------>
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> DAILY
+    </li>
+  </ul>
+</div>
+<!---------- WEEKLY ----------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> WEEKLY
+    </li>
+  </ul>
+</div>
+<!---------- MONTHLY ---------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> MONTHLY
+    </li>
+  </ul>
+</div>
+<!---------- YEARLY ----------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> YEARLY
+    </li>
+  </ul>
+</div>
+<!---------- DON'T CARE ------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> DON'T CARE
+    </li>
+  </ul>
+</div>
+<!---------- ADD MORE ABOVE THIS LINE ---------->
+</div>
+</div>
+<!---------- BULLET POINTS ---------->
+<div class="card bg-primary rounded-0 border-1 mt-1 mb-1"></div>
+<ul class="overflow-auto" style="height:140px;">
+  <li> What posting speeds of other's are you comfortable with, and what aren't you? Any dealbreakers?</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+</ul>
+<!-- OTHER'S POST SPEED END --------->
+</div>
+<!----------------------------------->
+<!-- PLOTTING ----------------------->
+<div class="col-lg-6 col-12 mt-2 card rounded-0 border-0">
+  <div class="p-2 font-weight-bold text-center" style="font-size: 17px; color: #fff; letter-spacing: 1px;">
+    <span class="pull-left"></span>
+    <span class="text-primary">PLOTTING</span>
+    <span class="pull-right"></span>
+  </div>
+<!----------------------------------->
+<div class="h-80 px-3 pt-lg-4 pt-2 pb-2 overflow-none">
+  <div class="row no-gutters">
+<!---------- NO PLANNING ------------>
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> NO PLANNING
+    </li>
+  </ul>
+</div>
+<!---------- PLAN A LITTLE ---------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> PLAN A LITTLE
+    </li>
+  </ul>
+</div>
+<!---------- PLAN A LOT ------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> PLAN A LOT
+    </li>
+  </ul>
+</div>
+<!---------- PLAN EVERYTHING -------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> PLAN EVERYTHING
+    </li>
+  </ul>
+</div>
+<!---------- PLAN WHILE RPING ------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> PLAN WHILE RPING
+    </li>
+  </ul>
+</div>
+<!---------- PLAN BEFORE RPING ------>
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> PLAN BEFORE RPING
+    </li>
+  </ul>
+</div>
+<!---------- ADAPTABLE -------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> ADAPTABLE
+    </li>
+  </ul>
+</div>
+<!---------- DON'T CARE ------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> DON'T CARE
+    </li>
+  </ul>
+</div>
+<!---------- ADD MORE ABOVE THIS LINE ---------->
+</div>
+</div>
+<!---------- BULLET POINTS ---------->
+<div class="card bg-primary rounded-0 border-1 mt-1 mb-1"></div>
+<ul class="overflow-auto" style="height:140px;">
+  <li> Do you prefer planning rps before you start them? Maybe you like planning as you rp? Maybe you like not planning at all?</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+</ul>
+<!-- PLOTTING END ------------------->
+</div>
+<!----------------------------------->
+<!-- PUBLICITY ---------->
+<div class="col-lg-6 col-12 mt-2 card rounded-0 border-0">
+  <div class="p-2 font-weight-bold text-center" style="font-size: 17px; color: #fff; letter-spacing: 1px;">
+    <span class="pull-left"></span>
+    <span class="text-primary">PUBLICITY</span>
+    <span class="pull-right"></span>
+  </div>
+<!----------------------------------->
+<div class="h-80 px-3 pt-lg-4 pt-2 pb-2 overflow-none">
+  <div class="row no-gutters">
+<!---------- POST FREELY ------------>
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> POST FREELY
+    </li>
+  </ul>
+</div>
+<!---------- NEVER UPLOAD PUBLICLY -->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> NEVER UPLOAD PUBLICLY 
+    </li>
+  </ul>
+</div>
+<!---------- ASK FIRST -------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> ASK FIRST
+    </li>
+  </ul>
+</div>
+<!---------- SFW WRITING ------------>
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> SFW WRITING
+    </li>
+  </ul>
+</div>
+<!---------- VIOLENT WRITING ------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> VIOLENT WRITING
+    </li>
+  </ul>
+</div>
+<!---------- SEXUAL WRITING -------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> SEXUAL WRITING
+    </li>
+  </ul>
+</div>
+<!---------- DON'T CARE ------------>
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> DON'T CARE
+    </li>
+  </ul>
+</div>
+<!---------- ADD MORE ABOVE THIS LINE ---------->
+</div>
+</div>
+<!---------- BULLET POINTS ---------->
+<div class="card bg-primary rounded-0 border-1 mt-1 mb-1"></div>
+<ul class="overflow-auto" style="height:140px;">
+  <li> Are you okay with an rp partner posting parts of rp publicly? Do you like to upload parts of rp publicly? What are your comfort levels?</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+</ul>
+<!-- PUBLICITY END ------------------>
+</div>
+<!-- WRITING PREFERENCES END -------->
+</div>
+<!-- WRITING END -------------------->
+</div>
+</div>
+<!----------------------------------->
+<!----------------------------------->
+<!-- CHARACTERS --------------------->
+<div id="III">
+  <div class="col-12 mb-lg-0">
+<!----------------------------------->
+<!----------------------------------->
+<div class="card bg-dark rounded-0 border-0 p-2 mb-2 font-weight-bold text-center text-primary" style="font-size: 17px; letter-spacing: 1px;">
+  <span>
+  <span class="pull-left"><i class="fal fa-person-rays px-1" style="font-size:26px;"></i></span>
+  <span class="text-primary">CHARACTERS</span>
+  <span class="pull-right"><i class="fal fa-person-rays px-1" style="font-size:26px;"></i></span>
+  </span>
+</div>
+<!----------------------------------->
+<!-- CHARACTERS PREFERENCES --------->
+<!----------------------------------->
+<div class="row no-gutters mb-2">
+<!----------------------------------->
+<!-- CHARACTER TYPES ---------------->
+<div class="col-lg-6 col-12 mt-2 card rounded-0 border-0">
+  <div class="p-2 font-weight-bold text-center" style="font-size: 17px; color: #fff; letter-spacing: 1px;">
+    <span class="pull-left"></span>
+    <span class="text-primary">CHARACTER TYPES</span>
+    <span class="pull-right"></span>
+  </div>
+<!----------------------------------->
+<div class="h-80 px-3 pt-lg-4 pt-2 pb-2 overflow-none">
+  <div class="row no-gutters">
+<!---------- HUMAN ------------------>
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> HUMAN
+    </li>
+  </ul>
+</div>
+<!---------- HUMANOID --------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> HUMANOID
+    </li>
+  </ul>
+</div>
+<!---------- ANTHRO/FURRY ----------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> ANTHRO/FURRY
+    </li>
+  </ul>
+</div>
+<!---------- FERAL ------------------>
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> FERAL
+    </li>
+  </ul>
+</div>
+<!---------- OTHER ------------------>
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> OTHER
+    </li>
+  </ul>
+</div>
+<!---------- ADAPTABLE -------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> ADAPTABLE
+    </li>
+  </ul>
+</div>
+<!---------- ORIGINAL CHARACTERS ---->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> ORIGINAL CHARACTERS
+    </li>
+  </ul>
+</div>
+<!---------- FAN CHARACTERS --------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> FAN CHARACTERS
+    </li>
+  </ul>
+</div>
+<!---------- CANON CHARACTERS ------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> CANON CHARACTERS
+    </li>
+  </ul>
+</div>
+<!---------- ORIGINAL SPECIES ------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> ORIGINAL SPECIES
+    </li>
+  </ul>
+</div>
+<!---------- OPEN SPECIES ----------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> OPEN SPECIES
+    </li>
+  </ul>
+</div>
+<!---------- CLOSED SPECIES ------>
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> CLOSED SPECIES
+    </li>
+  </ul>
+</div>
+<!---------- ADD MORE ABOVE THIS LINE ---------->
+</div>
+</div>
+<!---------- BULLET POINTS ---------->
+<div class="card bg-primary rounded-0 border-1 mt-1 mb-1"></div>
+<ul class="overflow-auto" style="height:140px;">
+  <li> What types of characters do you have experience with, and prefer? Any you don't? Any you normally don't but may if it's just right?</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+</ul>
+<!-- CHARACTER TYPES END ------------>
+</div>
+<!----------------------------------->
+<!-- CHARACTER AGES ----------------->
+<div class="col-lg-6 col-12 mt-2 card rounded-0 border-0">
+  <div class="p-2 font-weight-bold text-center" style="font-size: 17px; color: #fff; letter-spacing: 1px;">
+    <span class="pull-left"></span>
+    <span class="text-primary">CHARACTER AGES</span>
+    <span class="pull-right"></span>
+  </div>
+<!----------------------------------->
+<div class="h-80 px-3 pt-lg-4 pt-2 pb-2 overflow-none">
+  <div class="row no-gutters">
+<!----------  UNDER 10 -------------->
+<div class="col-lg-4 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> UNDER 10
+    </li>
+  </ul>
+</div>
+<!---------- 10 TO 12 ------------------>
+<div class="col-lg-4 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> 10-12
+    </li>
+  </ul>
+</div>
+<!---------- 13 TO 15 ------------------>
+<div class="col-lg-4 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> 13-15
+    </li>
+  </ul>
+</div>
+<!---------- 16 TO 17 ------------------>
+<div class="col-lg-4 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> 16-17
+    </li>
+  </ul>
+</div>
+<!---------- 18 AND ABOVE -------------->
+<div class="col-lg-4 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> 18+
+    </li>
+  </ul>
+</div>
+<!---------- 21 AND ABOVE -------------->
+<div class="col-lg-4 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> 21+
+    </li>
+  </ul>
+</div>
+<!---------- 26 AND ABOVE -------------->
+<div class="col-lg-4 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> 26+
+    </li>
+  </ul>
+</div>
+<!---------- 30 AND ABOVE -------------->
+<div class="col-lg-4 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> 30+
+    </li>
+  </ul>
+</div>
+<!---------- 35 AND ABOVE -------------->
+<div class="col-lg-4 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> 35+
+    </li>
+  </ul>
+</div>
+<!---------- 40 AND ABOVE -------------->
+<div class="col-lg-4 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> 40+
+    </li>
+  </ul>
+</div>
+<!---------- 60 AND ABOVE -------------->
+<div class="col-lg-4 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> 60+
+    </li>
+  </ul>
+</div>
+<!---------- 100 AND ABOVE ------------->
+<div class="col-lg-4 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> 100+
+    </li>
+  </ul>
+</div>
+<!---------- ANCIENT ------------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> ANCIENT
+    </li>
+  </ul>
+</div>
+<!---------- IMMORTAL ------------------>
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> IMMORTAL
+    </li>
+  </ul>
+</div>
+<!---------- DEPENDS ON THE RP --------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> DEPENDS ON THE RP
+    </li>
+  </ul>
+</div>
+<!---------- NO PREFERENCE ------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> NO PREFERENCE
+    </li>
+  </ul>
+</div>
+<!---------- ADD MORE ABOVE THIS LINE ---------->
+</div>
+</div>
+<!---------- BULLET POINTS ---------->
+<div class="card bg-primary rounded-0 border-1 mt-1 mb-1"></div>
+<ul class="overflow-auto" style="height:140px;">
+  <li> What ages for character's are you comfortable rping with? Any you won't rp with? Specific ages you'll only rp with similar ages?</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+</ul>
+<!-- CHARACTER AGES END ------------->
+</div>
+<!----------------------------------->
+<!-- CHARACTER GENDERS -------------->
+<div class="col-lg-4 col-12 mt-2 card rounded-0 border-0">
+  <div class="p-2 font-weight-bold text-center" style="font-size: 17px; color: #fff; letter-spacing: 1px;">
+    <span class="pull-left"></span>
+    <span class="text-primary">CHARACTER GENDERS</span>
+    <span class="pull-right"></span>
+  </div>
+<!----------------------------------->
+<div class="h-80 px-3 pt-lg-4 pt-2 pb-2 overflow-none">
+  <div class="row no-gutters">
+<!---------- MALE ------------------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> MALE
+    </li>
+  </ul>
+</div>
+<!---------- FEMALE ----------------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> FEMALE
+    </li>
+  </ul>
+</div>
+<!---------- TRANSGENDER ------------>
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> TRANSGENDER
+    </li>
+  </ul>
+</div>
+<!---------- NONBINARY SPECTRUM ----->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> NONBINARY SPECTRUM
+    </li>
+  </ul>
+</div>
+<!---------- OTHER ------------------>
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> OTHER
+    </li>
+  </ul>
+</div>
+<!---------- UNLABELED -------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> UNLABELED
+    </li>
+  </ul>
+</div>
+<!---------- NO PREFERENCE ---------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> NO PREFERENCE
+    </li>
+  </ul>
+</div>
+<!---------- ADD MORE ABOVE THIS LINE ---------->
+</div>
+</div>
+<!---------- BULLET POINTS ---------->
+<div class="card bg-primary rounded-0 border-1 mt-1 mb-1"></div>
+<ul class="overflow-auto" style="height:140px;">
+  <li> Do you have preferences for what character genders you like to rp with most? What about for rp partner's characters?</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+</ul>
+<!-- CHARACTER GENDERS END ---------->
+</div>
+<!----------------------------------->
+<!-- CHARACTER ORIENTATIONS --------->
+<div class="col-lg-4 col-12 mt-2 card rounded-0 border-0">
+  <div class="p-2 font-weight-bold text-center" style="font-size: 17px; color: #fff; letter-spacing: 1px;">
+    <span class="pull-left"></span>
+    <span class="text-primary">CHARACTER ORIENTATIONS</span>
+    <span class="pull-right"></span>
+  </div>
+<!----------------------------------->
+<div class="h-80 px-3 pt-lg-4 pt-2 pb-2 overflow-none">
+  <div class="row no-gutters">
+<!---------- HETERO ----------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> HETERO
+    </li>
+  </ul>
+</div>
+<!---------- HOMO ------------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> HOMO
+    </li>
+  </ul>
+</div>
+<!---------- BI --------------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> BI
+    </li>
+  </ul>
+</div>
+<!---------- PAN -------------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> PAN
+    </li>
+  </ul>
+</div>
+<!---------- OMNI ------------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> OMNI
+    </li>
+  </ul>
+</div>
+<!---------- DEMI ------------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> DEMI
+    </li>
+  </ul>
+</div>
+<!---------- ACE -------------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> ACE
+    </li>
+  </ul>
+</div>
+<!---------- ARO --------------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> ARO
+    </li>
+  </ul>
+</div>
+<!---------- OTHER ------------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> OTHER
+    </li>
+  </ul>
+</div>
+<!---------- NO PREFERENCE ---------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> NO PREFERENCE
+    </li>
+  </ul>
+</div>
+<!---------- ADD MORE ABOVE THIS LINE ---------->
+</div>
+</div>
+<!---------- BULLET POINTS ---------->
+<div class="card bg-primary rounded-0 border-1 mt-1 mb-1"></div>
+<ul class="overflow-auto" style="height:140px;">
+  <li> Do you have preferences for what character orientations you like to rp with most? What about for rp partner's characters?</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+</ul>
+<!-- CHARACTER ORIENTATIONS END ----->
+</div>
+<!----------------------------------->
+<!-- NUMBER OF CHARACTERS ----------->
+<div class="col-lg-4 col-12 mt-2 pr-lg-1 card rounded-0 border-0">
+  <div class="p-2 font-weight-bold text-center" style="font-size: 17px; color: #fff; letter-spacing: 1px;">
+    <span class="pull-left"></span>
+    <span class="text-primary">NUMBER OF CHARACTERS</span>
+    <span class="pull-right"></span>
+  </div>
+<!----------------------------------->
+<div class="h-80 px-3 pt-lg-4 pt-2 pb-2 overflow-none">
+  <div class="row no-gutters">
+<!---------- ONE CHARACTER ---------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> 1
+    </li>
+  </ul>
+</div>
+<!---------- TWO CHARACTERS --------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> 2
+    </li>
+  </ul>
+</div>
+<!---------- 3 TO FIVE CHARACTERS --->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> 3-5
+    </li>
+  </ul>
+</div>
+<!---------- 6 TO 10 CHARACTERS ----->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> 6-10
+    </li>
+  </ul>
+</div>
+<!---------- 10+ CHARACTERS --------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> 10+
+    </li>
+  </ul>
+</div>
+<!---------- 20+ CHARACTERS --------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> 20+
+    </li>
+  </ul>
+</div>
+<!---------- NO LIMIT --------------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> NO LIMIT
+    </li>
+  </ul>
+</div>
+<!---------- DEPENDS ON RP ----------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> DEPENDS ON RP
+    </li>
+  </ul>
+</div>
+<!---------- ADAPTABLE --------------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> ADAPTABLE
+    </li>
+  </ul>
+</div>
+<!---------- ADD MORE ABOVE THIS LINE ---------->
+</div>
+</div>
+<!---------- BULLET POINTS ---------->
+<div class="card bg-primary rounded-0 border-1 mt-1 mb-1"></div>
+<ul class="overflow-auto" style="height:140px;">
+  <li> Do you have preferences for what number of characters you like to rp? What about for rp partner's characters?</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+</ul>
+<!-- NUMBER OF CHARACTERS ENDS ------>
+</div>
+<!-- WRITING PREFERENCES END -------->
+</div>
+<!-- CHARACTERS END ----------------->
+  </div>
+</div>
+<!----------------------------------->
+<!----------------------------------->
+<!-- SHIPPING ----------------------->
+<div id="IV">
+  <div class="col-12 mb-lg-0">
+<!----------------------------------->
+<!----------------------------------->
+<div class="card bg-dark rounded-0 border-0 p-2 mb-2 font-weight-bold text-center text-primary" style="font-size: 17px; letter-spacing: 1px;">
+  <span>
+  <span class="pull-left"><i class="fal fa-hands-holding-heart px-1" style="font-size:26px;"></i></span>
+  <span class="text-primary">SHIPPING</span>
+  <span class="pull-right"><i class="fal fa-hands-holding-heart px-1" style="font-size:26px;"></i></span>
+  </span>
+</div>
+<!----------------------------------->
+<!-- SHIPPING PREFERENCES ----------->
+<!----------------------------------->
+<div class="row no-gutters mb-2">
+<!----------------------------------->
+<!-- SHIP PLANNING ------------------>
+<div class="col-lg-4 col-12 mt-2 card rounded-0 border-0">
+  <div class="p-2 font-weight-bold text-center" style="font-size: 17px; color: #fff; letter-spacing: 1px;">
+    <span class="pull-left"></span>
+    <span class="text-primary">SHIP PLANNING</span>
+    <span class="pull-right"></span>
+  </div>
+<!----------------------------------->
+<div class="h-80 px-3 pt-lg-4 pt-2 pb-2 overflow-none">
+  <div class="row no-gutters">
+<!---------- NO PLANNING ------------>
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> NO PLANNING
+    </li>
+  </ul>
+</div>
+<!---------- OOC DISCUSSION FIRST --->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> OOC DISCUSSION FIRST
+    </li>
+  </ul>
+</div>
+<!---------- IC INTERACTION FIRST --->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> IC INTERACTION FIRST
+    </li>
+  </ul>
+</div>
+<!---------- DEPENDS ON CHARACTERS -->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> DEPENDS ON CHARACTERS
+    </li>
+  </ul>
+</div>
+<!---------- DEPENDS ON RP ---------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> DEPENDS ON RP
+    </li>
+  </ul>
+</div>
+<!---------- SURPRISE ME ------------>
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> SURPRISE ME
+    </li>
+  </ul>
+</div>
+<!---------- ADAPTABLE -------------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> ADAPTABLE
+    </li>
+  </ul>
+</div>
+<!---------- NO PREFERENCE ---------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> NO PREFERENCE
+    </li>
+  </ul>
+</div>
+<!---------- ADD MORE ABOVE THIS LINE ---------->
+</div>
+</div>
+<!---------- BULLET POINTS ---------->
+<div class="card bg-primary rounded-0 border-1 mt-1 mb-1"></div>
+<ul class="overflow-auto" style="height:140px;">
+  <li> How much do you like planning character ships? Only a little? A lot?</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+</ul>
+<!-- SHIP PLANNING END -------------->
+</div>
+<!----------------------------------->
+<!-- SHIPPING SPEED ----------------->
+<div class="col-lg-4 col-12 mt-2 card rounded-0 border-0">
+  <div class="p-2 font-weight-bold text-center" style="font-size: 17px; color: #fff; letter-spacing: 1px;">
+    <span class="pull-left"></span>
+    <span class="text-primary">SHIPPING SPEED</span>
+    <span class="pull-right"></span>
+  </div>
+<!----------------------------------->
+<div class="h-80 px-3 pt-lg-4 pt-2 pb-2 overflow-none">
+  <div class="row no-gutters">
+<!----------  INSTANT --------------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span>  INSTANT
+    </li>
+  </ul>
+</div>
+<!---------- FAST ------------------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> FAST
+    </li>
+  </ul>
+</div>
+<!---------- AVERAGE ---------------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> AVERAGE
+    </li>
+  </ul>
+</div>
+<!---------- SLOW ------------------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> SLOW
+    </li>
+  </ul>
+</div>
+<!---------- SNAIL'S PACE ----------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> SNAIL'S PACE
+    </li>
+  </ul>
+</div>
+<!---------- DEPENDS ON CHARACTERS -->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> DEPENDS ON CHARACTERS
+    </li>
+  </ul>
+</div>
+<!---------- DEPENDS ON RP ---------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> DEPENDS ON RP
+    </li>
+  </ul>
+</div>
+<!---------- NO PREFERENCE ---------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> NO PREFERENCE
+    </li>
+  </ul>
+</div>
+<!---------- ADD MORE ABOVE THIS LINE ---------->
+</div>
+</div>
+<!---------- BULLET POINTS ---------->
+<div class="card bg-primary rounded-0 border-1 mt-1 mb-1"></div>
+<ul class="overflow-auto" style="height:140px;">
+  <li> How fast do you like characters to be shipped together? Do you like different speeds for different circumstances?</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+</ul>
+<!-- SHIPPING SPEED END ------------->
+</div>
+<!----------------------------------->
+<!-- SHIP EXCLUSIVITY -------------->
+<div class="col-lg-4 col-12 mt-2 card rounded-0 border-0">
+  <div class="p-2 font-weight-bold text-center" style="font-size: 17px; color: #fff; letter-spacing: 1px;">
+    <span class="pull-left"></span>
+    <span class="text-primary">SHIP EXCLUSIVITY</span>
+    <span class="pull-right"></span>
+  </div>
+<!----------------------------------->
+<div class="h-80 px-3 pt-lg-4 pt-2 pb-2 overflow-none">
+  <div class="row no-gutters">
+<!---------- ROMANTIC MONOSHIP ------>
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> ROMANTIC MONOSHIP
+    </li>
+  </ul>
+</div>
+<!---------- ROMANTIC MULTISHIP ----->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> ROMANTIC MULTISHIP
+    </li>
+  </ul>
+</div>
+<!---------- PLATONIC MONOSHIP ------>
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> PLATONIC MONOSHIP
+    </li>
+  </ul>
+</div>
+<!---------- PLATONIC MULTISHIP ----->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> PLATONIC MULTISHIP
+    </li>
+  </ul>
+</div>
+<!----------AU RELATIONSHIPS ------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> AU RELATIONSHIPS
+    </li>
+  </ul>
+</div>
+<!---------- DEPENDS ON CHARACTERS -->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> DEPENDS ON CHARACTERS
+    </li>
+  </ul>
+</div>
+<!---------- DEPENDS ON RP ---------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> DEPENDS ON RP
+    </li>
+  </ul>
+</div>
+<!---------- NO PREFERENCE --------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> NO PREFERENCE
+    </li>
+  </ul>
+</div>
+<!---------- ADD MORE ABOVE THIS LINE ---------->
+</div>
+</div>
+<!---------- BULLET POINTS ---------->
+<div class="card bg-primary rounded-0 border-1 mt-1 mb-1"></div>
+<ul class="overflow-auto" style="height:140px;">
+  <li> What are you comforts with shipping both platonically and romantically? Do you like exclusive ships? Are you ok with multishipping but only under specific circumstances?</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+</ul>
+<!-- SHIP EXCLUSIVITY END ----------->
+</div>
+<!----------------------------------->
+<!-- ROMANTIC SHIPS ----------------->
+<div class="col-lg-6 col-12 mt-2 card rounded-0 border-0">
+  <div class="p-2 font-weight-bold text-center" style="font-size: 17px; color: #fff; letter-spacing: 1px;">
+    <span class="pull-left"></span>
+    <span class="text-primary">ROMANTIC SHIPS</span>
+    <span class="pull-right"></span>
+  </div>
+<!----------------------------------->
+<div class="h-80 px-3 pt-lg-4 pt-2 pb-2 overflow-none">
+  <div class="row no-gutters">
+<!---------- M/F -------------------->
+<div class="col-lg-3 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> M/F
+    </li>
+  </ul>
+</div>
+<!---------- M/M -------------------->
+<div class="col-lg-3 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> M/M
+    </li>
+  </ul>
+</div>
+<!---------- F/F -------------------->
+<div class="col-lg-3 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> F/F
+    </li>
+  </ul>
+</div>
+<!---------- NB/NB ------------------>
+<div class="col-lg-3 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> NB/NB
+    </li>
+  </ul>
+</div>
+<!---------- NB/M ------------------->
+<div class="col-lg-3 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> NB/M
+    </li>
+  </ul>
+</div>
+<!---------- NB/F ------------------->
+<div class="col-lg-3 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> NB/F
+    </li>
+  </ul>
+</div>
+<!---------- M/M/M ------------------>
+<div class="col-lg-3 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> M/M/M
+    </li>
+  </ul>
+</div>
+<!---------- F/F/F ------------------>
+<div class="col-lg-3 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> F/F/F
+    </li>
+  </ul>
+</div>
+<!---------- M/M/F ------------------>
+<div class="col-lg-3 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> M/M/F
+    </li>
+  </ul>
+</div>
+<!---------- M/F/F ------------------>
+<div class="col-lg-3 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> M/F/F
+    </li>
+  </ul>
+</div>
+<!---------- OTHER ------------------>
+<div class="col-lg-3 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> OTHER
+    </li>
+  </ul>
+</div>
+<!---------- ADAPTABLE -------------->
+<div class="col-lg-3 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> ADAPTABLE
+    </li>
+  </ul>
+</div>
+<!---------- DEPENDS ON CHARACTERS -->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> DEPENDS ON CHARACTERS
+    </li>
+  </ul>
+</div>
+<!---------- ADD MORE ABOVE THIS LINE ---------->
+</div>
+</div>
+<!---------- BULLET POINTS ---------->
+<div class="card bg-primary rounded-0 border-1 mt-1 mb-1"></div>
+<ul class="overflow-auto" style="height:140px;">
+  <li> What types of pairings do you prefer for romantic shipping? Any you don't normally but might under the right circumstances?</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+</ul>
+<!-- ROMANTIC SHIPS END ------------->
+</div>
+<!----------------------------------->
+<!-- PLATONIC SHIPS ----------------->
+<div class="col-lg-6 col-12 mt-2 pr-lg-1 card rounded-0 border-0">
+  <div class="p-2 font-weight-bold text-center" style="font-size: 17px; color: #fff; letter-spacing: 1px;">
+    <span class="pull-left"></span>
+    <span class="text-primary">PLATONIC SHIPS</span>
+    <span class="pull-right"></span>
+  </div>
+<!----------------------------------->
+<div class="h-80 px-3 pt-lg-4 pt-2 pb-2 overflow-none">
+  <div class="row no-gutters">
+<!---------- FRIENDS ---------------->
+<div class="col-lg-4 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> FRIENDS
+    </li>
+  </ul>
+</div>
+<!---------- SIBLINGS --------------->
+<div class="col-lg-4 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> SIBLINGS
+    </li>
+  </ul>
+</div>
+<!---------- PARENTAL --------------->
+<div class="col-lg-4 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> PARENTAL
+    </li>
+  </ul>
+</div>
+<!---------- COMPANIONS ------------->
+<div class="col-lg-4 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> COMPANIONS
+    </li>
+  </ul>
+</div>
+<!---------- FAMILIARS -------------->
+<div class="col-lg-4 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> FAMILIARS
+    </li>
+  </ul>
+</div>
+<!---------- MENTOR/MENTEE ---------->
+<div class="col-lg-4 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> MENTOR/MENTEE
+    </li>
+  </ul>
+</div>
+<!---------- CO-WORKERS ------------->
+<div class="col-lg-4 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> CO-WORKERS
+    </li>
+  </ul>
+</div>
+<!---------- QUEERPLATONIC ---------->
+<div class="col-lg-4 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> QUEERPLATONIC
+    </li>
+  </ul>
+</div>
+<!---------- OTHER ------------------>
+<div class="col-lg-4 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> OTHER
+    </li>
+  </ul>
+</div>
+<!---------- ADAPTABLE --------------->
+<div class="col-lg-4 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> ADAPTABLE
+    </li>
+  </ul>
+</div>
+<!---------- DEPENDS ON CHARACTERS -->
+<div class="col-lg-8 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> DEPENDS ON CHARACTERS
+    </li>
+  </ul>
+</div>
+<!---------- ADD MORE ABOVE THIS LINE ---------->
+</div>
+</div>
+<!---------- BULLET POINTS ---------->
+<div class="card bg-primary rounded-0 border-1 mt-1 mb-1"></div>
+<ul class="overflow-auto" style="height:140px;">
+  <li> What types of pairings do you prefer for platonic shipping? Any you don't normally but might under the right circumstances?</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+</ul>
+<!-- PLATONIC SHIPS ENDS ------------>
+</div>
+<!-- WRITING PREFERENCES END -------->
+</div>
+<!-- SHIPPING END ------------------->
+  </div>
+</div>
+<!----------------------------------->
+<!----------------------------------->
+<!-- BOUNDARIES --------------------->
+<div id="V">
+  <div class="col-12 mb-lg-0">
+<!----------------------------------->
+<!----------------------------------->
+<div class="card bg-dark rounded-0 border-0 p-2 mb-2 font-weight-bold text-center text-primary" style="font-size: 17px; letter-spacing: 1px;">
+  <span>
+  <span class="pull-left"><i class="fal fa-do-not-enter px-1" style="font-size:26px;"></i></span>
+  <span class="text-primary">BOUNDARIES</span>
+  <span class="pull-right"><i class="fal fa-do-not-enter px-1" style="font-size:26px;"></i></span>
+  </span>
+</div>
+<!----------------------------------->
+<!-- BOUNDARY PREFERENCES ----------->
+<!----------------------------------->
+<div class="row no-gutters mb-2">
+<!----------------------------------->
+<!-- VIOLENCE ----------------------->
+<div class="col-lg-4 col-12 mt-2 card rounded-0 border-0">
+  <div class="p-2 font-weight-bold text-center" style="font-size: 17px; color: #fff; letter-spacing: 1px;">
+    <span class="pull-left"></span>
+    <span class="text-primary">VIOLENCE</span>
+    <span class="pull-right"></span>
+  </div>
+<!----------------------------------->
+<div class="h-80 px-3 pt-lg-4 pt-2 pb-2 overflow-none">
+  <div class="row no-gutters">
+<!---------- NONE ------------------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> NONE
+    </li>
+  </ul>
+</div>
+<!---------- VERBAL ----------------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> VERBAL
+    </li>
+  </ul>
+</div>
+<!---------- PHYSICAL --------------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> PHYSICAL
+    </li>
+  </ul>
+</div>
+<!---------- KNIVES, GUNS, ETC ------>
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> KNIVES, GUNS, ETC
+    </li>
+  </ul>
+</div>
+<!---------- BLOOD, GORE, ETC ------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> BLOOD, GORE, ETC
+    </li>
+  </ul>
+</div>
+<!---------- KILLING/MURDER --------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> KILLING/MURDER
+    </li>
+  </ul>
+</div>
+<!---------- TORTURE ---------------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> TORTURE
+    </li>
+  </ul>
+</div>
+<!---------- WAR -------------------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> WAR
+    </li>
+  </ul>
+</div>
+<!---------- DEATH ------------------>
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> DEATH
+    </li>
+  </ul>
+</div>
+<!---------- OTHER ------------------>
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> OTHER
+    </li>
+  </ul>
+</div>
+<!---------- DON'T CARE ------------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> DON'T CARE
+    </li>
+  </ul>
+</div>
+<!---------- ADD MORE ABOVE THIS LINE ---------->
+</div>
+</div>
+<!---------- BULLET POINTS ---------->
+<div class="card bg-primary rounded-0 border-1 mt-1 mb-1"></div>
+<ul class="overflow-auto" style="height:140px;">
+  <li> What are your boundaries for violence in roleplay? Any that are hard boundaries? Any that are soft?</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+</ul>
+<!-- VIOLENCE END ------------------->
+</div>
+<!----------------------------------->
+<!-- ABUSE AND TRAUMA --------------->
+<div class="col-lg-4 col-12 mt-2 card rounded-0 border-0">
+  <div class="p-2 font-weight-bold text-center" style="font-size: 17px; color: #fff; letter-spacing: 1px;">
+    <span class="pull-left"></span>
+    <span class="text-primary">ABUSE AND TRAUMA</span>
+    <span class="pull-right"></span>
+  </div>
+<!----------------------------------->
+<div class="h-80 px-3 pt-lg-4 pt-2 pb-2 overflow-none">
+  <div class="row no-gutters">
+<!---------- NONE ------------------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> NONE
+    </li>
+  </ul>
+</div>
+<!---------- VERBAL ----------------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> VERBAL
+    </li>
+  </ul>
+</div>
+<!---------- PHYSICAL --------------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> PHYSICAL
+    </li>
+  </ul>
+</div>
+<!---------- SEXUAL ----------------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> SEXUAL
+    </li>
+  </ul>
+</div>
+<!---------- EMOTIONAL -------------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> EMOTIONAL
+    </li>
+  </ul>
+</div>
+<!---------- MENTAL ----------------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> MENTAL
+    </li>
+  </ul>
+</div>
+<!---------- CHILD ------------------>
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> CHILD
+    </li>
+  </ul>
+</div>
+<!---------- SUBSTANCE -------------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> SUBSTANCE
+    </li>
+  </ul>
+</div>
+<!---------- RELIGIOUS -------------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> RELIGIOUS
+    </li>
+  </ul>
+</div>
+<!---------- OTHER ------------------>
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> OTHER
+    </li>
+  </ul>
+</div>
+<!---------- DON'T CARE ------------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> DON'T CARE
+    </li>
+  </ul>
+</div>
+<!---------- ADD MORE ABOVE THIS LINE ---------->
+</div>
+</div>
+<!---------- BULLET POINTS ---------->
+<div class="card bg-primary rounded-0 border-1 mt-1 mb-1"></div>
+<ul class="overflow-auto" style="height:140px;">
+  <li> What are your boundaries for abuse and trauma in roleplay? Any that are hard boundaries? Any that are soft?</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+</ul>
+<!-- ABUSE & TRAUMA END ------------->
+</div>
+<!----------------------------------->
+<!-- PSYCHOLOGICAL ------------------>
+<div class="col-lg-4 col-12 mt-2 card rounded-0 border-0">
+  <div class="p-2 font-weight-bold text-center" style="font-size: 17px; color: #fff; letter-spacing: 1px;">
+    <span class="pull-left"></span>
+    <span class="text-primary">PSYCHOLOGICAL</span>
+    <span class="pull-right"></span>
+  </div>
+<!----------------------------------->
+<div class="h-80 px-3 pt-lg-4 pt-2 pb-2 overflow-none">
+  <div class="row no-gutters">
+<!---------- NONE ------------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> NONE
+    </li>
+  </ul>
+</div>
+<!---------- ANXIETY ---------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> ANXIETY
+    </li>
+  </ul>
+</div>
+<!---------- DEPRESSION ------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> DEPRESSION
+    </li>
+  </ul>
+</div>
+<!---------- PTSD ------------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> PTSD
+    </li>
+  </ul>
+</div>
+<!---------- BIPOLAR ---------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> BIPOLAR
+    </li>
+  </ul>
+</div>
+<!---------- ASPD ------------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> ASPD
+    </li>
+  </ul>
+</div>
+<!------ SELF-HARM ------------------>
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> SELF-HARM
+    </li>
+  </ul>
+</div>
+<!------ SUICIDE -------------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> SUICIDE
+    </li>
+  </ul>
+</div>
+<!---------- NEURODIVERGENCY -------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> NEURODIVERGENCY
+    </li>
+  </ul>
+</div>
+<!-- DISSOCIATIVE IDENTITY DISORDER-->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> DISSOCIATIVE IDENTITY DISORDER
+    </li>
+  </ul>
+</div>
+<!--- OTHER PERSONALITY DISORDERS --->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> OTHER PERSONALITY DISORDERS
+    </li>
+  </ul>
+</div>
+<!---------- SCHIZOPHRENIA ---------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> SCHIZOPHRENIA
+    </li>
+  </ul>
+</div>
+<!------ OTHER PSYCHOTIC DISORDERS -->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> OTHER PSYCHOTIC DISORDERS
+    </li>
+  </ul>
+</div>
+<!---------- EATING DISORDERS ------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> EATING DISORDERS
+    </li>
+  </ul>
+</div>
+<!---------- DON'T CARE ------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> DON'T CARE
+    </li>
+  </ul>
+</div>
+<!---------- ADD MORE ABOVE THIS LINE ---------->
+</div>
+</div>
+<!---------- BULLET POINTS ---------->
+<div class="card bg-primary rounded-0 border-1 mt-1 mb-1"></div>
+<ul class="overflow-auto" style="height:140px;">
+  <li> What are your boundaries for psychological conditions in roleplay? Any that are hard boundaries? Any that are soft?</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+</ul>
+<!-- PSYCHOLOGICAL END -------------->
+</div>
+<!----------------------------------->
+<!-- SEXUAL INTIMACY ---------------->
+<div class="col-lg-6 col-12 mt-2 card rounded-0 border-0">
+  <div class="p-2 font-weight-bold text-center" style="font-size: 17px; color: #fff; letter-spacing: 1px;">
+    <span class="pull-left"></span>
+    <span class="text-primary">SEXUAL INTIMACY</span>
+    <span class="pull-right"></span>
+  </div>
+<!----------------------------------->
+<div class="h-80 px-3 pt-lg-4 pt-2 pb-2 overflow-none">
+  <div class="row no-gutters">
+<!---------- NONE ------------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> NONE
+    </li>
+  </ul>
+</div>
+<!---------- KISSING/CLOTHES-ON ----->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> KISSING/CLOTHES-ON
+    </li>
+  </ul>
+</div>
+<!---------- BUILD-UP --------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> BUILD-UP
+    </li>
+  </ul>
+</div>
+<!---------- FADE-TO-BLACK ---------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> FADE-TO-BLACK
+    </li>
+  </ul>
+</div>
+<!---------- WRITE THE ACT ---------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> WRITE THE ACT
+    </li>
+  </ul>
+</div>
+<!---------- VANILLA ONLY ----------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> VANILLA ONLY
+    </li>
+  </ul>
+</div>
+<!---------- KINK/FETISH OKAY ------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> KINK/FETISH
+    </li>
+  </ul>
+</div>
+<!---------- DEPENDS ON CHARACTERS -->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> DEPENDS ON CHARACTERS
+    </li>
+  </ul>
+</div>
+<!---------- DON'T CARE ------------------>
+<div class="col-lg-4 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> DON'T CARE
+    </li>
+  </ul>
+</div>
+<!---------- ADD MORE ABOVE THIS LINE ---------->
+</div>
+</div>
+<!---------- BULLET POINTS ---------->
+<div class="card bg-primary rounded-0 border-1 mt-1 mb-1"></div>
+<ul class="overflow-auto" style="height:140px;">
+  <li> What are your boundaries for sexual intimacy in roleplay?</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+</ul>
+<!-- SEXUAL INTIMACY END ------------>
+</div>
+<!----------------------------------->
+<!-- NON-SEXUAL INTIMACY ------------>
+<div class="col-lg-6 col-12 mt-2 pr-lg-1 card rounded-0 border-0">
+  <div class="p-2 font-weight-bold text-center" style="font-size: 17px; color: #fff; letter-spacing: 1px;">
+    <span class="pull-left"></span>
+    <span class="text-primary">NON-SEXUAL INTIMACY</span>
+    <span class="pull-right"></span>
+  </div>
+<!----------------------------------->
+<div class="h-80 px-3 pt-lg-4 pt-2 pb-2 overflow-none">
+  <div class="row no-gutters">
+<!---------- NONE ------------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> NONE
+    </li>
+  </ul>
+</div>
+<!---------- HAND HOLDING ----------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> HAND HOLDING
+    </li>
+  </ul>
+</div>
+<!---------- HUGGING ---------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> HUGGING
+    </li>
+  </ul>
+</div>
+<!---------- CUDDLING --------------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> CUDDLING
+    </li>
+  </ul>
+</div>
+<!---------- LIP-TO-LIP KISSING ----->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> LIP-TO-LIP KISSING
+    </li>
+  </ul>
+</div>
+<!----------  FOREHEAD KISSES ------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> FOREHEAD KISSES
+    </li>
+  </ul>
+</div>
+<!---------- CHEEK KISSES ----------->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> CHEEK KISSES
+    </li>
+  </ul>
+</div>
+<!---------- DEPENDS ON CHARACTERS -->
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> DEPENDS ON CHARACTERS
+    </li>
+  </ul>
+</div>
+<!---------- DON'T CARE ------------------>
+<div class="col-lg-6 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> DON'T CARE
+    </li>
+  </ul>
+</div>
+<!---------- ADD MORE ABOVE THIS LINE ---------->
+</div>
+</div>
+<!---------- BULLET POINTS ---------->
+<div class="card bg-primary rounded-0 border-1 mt-1 mb-1"></div>
+<ul class="overflow-auto" style="height:140px;">
+  <li> What are your boundaries for non-sexual intimacy in roleplay?</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+</ul>
+<!-- NON-SEXUAL INTIMACY ENDS ------->
+</div>
+<!-- WRITING PREFERENCES END -------->
+</div>
+<!-- BOUNDARIES END ----------------->
+  </div>
+</div>
+<!----------------------------------->
+<!----------------------------------->
+<!-- ARTWORK ------------------------>
+<div id="VI">
+  <div class="col-12 mb-lg-0">
+<!----------------------------------->
+<!----------------------------------->
+<div class="card bg-dark rounded-0 border-0 p-2 mb-2 font-weight-bold text-center text-primary" style="font-size: 17px; letter-spacing: 1px;">
+  <span>
+  <span class="pull-left"><i class="fal fa-palette px-1" style="font-size:26px;"></i></span>
+  <span class="text-primary">ARTWORK</span>
+  <span class="pull-right"><i class="fal fa-palette px-1" style="font-size:26px;"></i></span>
+  </span>
+</div>
+<!----------------------------------->
+<!-- ARTWORK PREFERENCES ------------>
+<!----------------------------------->
+<div class="row no-gutters mb-2">
+<!----------------------------------->
+<!-- GENERAL ART -------------------->
+<div class="col-lg-4 col-12 mt-2 card rounded-0 border-0">
+  <div class="p-2 font-weight-bold text-center" style="font-size: 17px; color: #fff; letter-spacing: 1px;">
+    <span class="pull-left"></span>
+    <span class="text-primary">GENERAL</span>
+    <span class="pull-right"></span>
+  </div>
+<!----------------------------------->
+<div class="h-80 px-3 pt-lg-4 pt-2 pb-2 overflow-none">
+  <div class="row no-gutters">
+<!---------- DRAW FREELY ------------>
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> DRAW FREELY
+    </li>
+  </ul>
+</div>
+<!---------- ASK FIRST -------------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> ASK FIRST
+    </li>
+  </ul>
+</div>
+<!---------- POST PUBLICLY ---------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> POST PUBLICLY
+    </li>
+  </ul>
+</div>
+<!---------- POST PRIVATELY --------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> POST PRIVATELY
+    </li>
+  </ul>
+</div>
+<!---------- NEVER POST ------------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> NEVER POST
+    </li>
+  </ul>
+</div>
+<!--------- POST WHERE I CAN'T SEE -->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> POST WHERE I CAN'T SEE
+    </li>
+  </ul>
+</div>
+<!---------- DON'T CARE ------------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> DON'T CARE
+    </li>
+  </ul>
+</div>
+<!---------- ADD MORE ABOVE THIS LINE ---------->
+</div>
+</div>
+<!---------- BULLET POINTS ---------->
+<div class="card bg-primary rounded-0 border-1 mt-1 mb-1"></div>
+<ul class="overflow-auto" style="height:140px;">
+  <li> What are your boundaries with general rated artwork? Are you ok with being drawn things? Do you only like friends drawing things? What about where it's posted?</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+</ul>
+<!-- GENERAL ART END ---------------->
+</div>
+<!----------------------------------->
+<!-- VIOLENT ART -------------------->
+<div class="col-lg-4 col-12 mt-2 card rounded-0 border-0">
+  <div class="p-2 font-weight-bold text-center" style="font-size: 17px; color: #fff; letter-spacing: 1px;">
+    <span class="pull-left"></span>
+    <span class="text-primary">VIOLENT</span>
+    <span class="pull-right"></span>
+  </div>
+<!----------------------------------->
+<div class="h-80 px-3 pt-lg-4 pt-2 pb-2 overflow-none">
+  <div class="row no-gutters">
+<!---------- DRAW FREELY ------------>
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> DRAW FREELY
+    </li>
+  </ul>
+</div>
+<!---------- ASK FIRST -------------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> ASK FIRST
+    </li>
+  </ul>
+</div>
+<!---------- POST PUBLICLY ---------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> POST PUBLICLY
+    </li>
+  </ul>
+</div>
+<!---------- POST PRIVATELY --------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> POST PRIVATELY
+    </li>
+  </ul>
+</div>
+<!---------- NEVER POST ------------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> NEVER POST
+    </li>
+  </ul>
+</div>
+<!--------- POST WHERE I CAN'T SEE -->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> POST WHERE I CAN'T SEE
+    </li>
+  </ul>
+</div>
+<!---------- DON'T CARE ------------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> DON'T CARE
+    </li>
+  </ul>
+</div>
+<!---------- ADD MORE ABOVE THIS LINE ---------->
+</div>
+</div>
+<!---------- BULLET POINTS ---------->
+<div class="card bg-primary rounded-0 border-1 mt-1 mb-1"></div>
+<ul class="overflow-auto" style="height:140px;">
+  <li> What are your boundaries with violent themed artwork? Are you ok with being drawn it? Do you only like friends drawing things? What about where it's posted?</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+</ul>
+<!-- SHIPPING SPEED END ------------->
+</div>
+<!----------------------------------->
+<!-- SEXUAL ART --------------------->
+<div class="col-lg-4 col-12 mt-2 card rounded-0 border-0">
+  <div class="p-2 font-weight-bold text-center" style="font-size: 17px; color: #fff; letter-spacing: 1px;">
+    <span class="pull-left"></span>
+    <span class="text-primary">SEXUAL</span>
+    <span class="pull-right"></span>
+  </div>
+<!----------------------------------->
+<div class="h-80 px-3 pt-lg-4 pt-2 pb-2 overflow-none">
+  <div class="row no-gutters">
+<!---------- DRAW FREELY ------------>
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> DRAW FREELY
+    </li>
+  </ul>
+</div>
+<!---------- ASK FIRST -------------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> ASK FIRST
+    </li>
+  </ul>
+</div>
+<!---------- POST PUBLICLY ---------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> POST PUBLICLY
+    </li>
+  </ul>
+</div>
+<!---------- POST PRIVATELY --------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> POST PRIVATELY
+    </li>
+  </ul>
+</div>
+<!---------- NEVER POST ------------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> NEVER POST
+    </li>
+  </ul>
+</div>
+<!--------- POST WHERE I CAN'T SEE -->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL -->
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> POST WHERE I CAN'T SEE
+    </li>
+  </ul>
+</div>
+<!---------- DON'T CARE ------------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li">
+        <!-- COMFORT LEVEL --> 
+        <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+      </span> DON'T CARE
+    </li>
+  </ul>
+</div>
+<!---------- ADD MORE ABOVE THIS LINE ---------->
+</div>
+</div>
+<!---------- BULLET POINTS ---------->
+<div class="card bg-primary rounded-0 border-1 mt-1 mb-1"></div>
+<ul class="overflow-auto" style="height:140px;">
+  <li> What are your boundaries with sexual themed artwork? Are you ok with being drawn it? Do you only like friends drawing things? What about where it's posted?</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+  <li> content</li>
+</ul>
+<!-- SEXUAL ART END ----------------->
+</div>
+<!-- ARTWORK END -------------------->
+  </div>
+</div>
+</div>
+<!----------------------------------->
+<!----------------------------------->
+<!-- MY OCS & WRITING --------------->
+<div id="VII">
+  <div class="col-12 mb-lg-0">
+<!----------------------------------->
+<!----------------------------------->
+<div class="card bg-dark rounded-0 border-0 p-2 mb-2 font-weight-bold text-center text-primary" style="font-size: 17px; letter-spacing: 1px;">
+  <span>
+  <span class="pull-left"><i class="fal fa-address-book px-1" style="font-size:26px;"></i></span>
+  <span class="text-primary">MY OCS & WRITING</span>
+  <span class="pull-right"><i class="fal fa-address-book px-1" style="font-size:26px;"></i></span>
+  </span>
+</div>
+<!----------------------------------->
+<!-- MY OCS ------------------------->
+<div class="col-12 card rounded-0 border-0">
+  <div class="p-2 font-weight-bold text-center" style="font-size: 17px; color: #fff; letter-spacing: 1px;">
+    <span class="pull-left"></span>
+    <span class="text-primary">Most Wanted</span>
+    <span class="pull-right"></span>
+  </div>
+<!----------------------------------->
+<div>
+  <p class="text-justify pt-lg-4 p-3">
+    These are the current characters I am most interested in roleplaying/headcanoning at the moment. Characters listed here will swap out occasionally. (Add onto or change intro text here.)
+  </p>
+<!----------------------------------->
+</div>
+</div>
+<!----------------------------------->
+<div class="row no-gutters card rounded-0 border-0">
+<!------- OC ------------------------>
+<div class="row no-gutters">
+<!------- OC ICON ------------------->
+  <div class="col-lg-3 col-12 pt-lg-3">
+    <div class="px-3 justify-content-center">
+      <a href="character profile url">
+        <img src="https://cdn.discordapp.com/attachments/1077096432458276994/1077096532794421268/unknown.png" style="border-radius:50%;" class="fr-fic fr-dii" width="180px" height="180px">
+      </a>
+    </div>
+  </div>
+<!----------------------------------->
+<div class="col-lg-9 col-12">
+<!------- OC NAME ------------------->
+<div class="col-lg-12 col-12 p-2 mb-n3">
+  <ul class="fa-ul mb-0 ml-lg-2">
+    <li>
+      <span class="fa-li"><i class="fa-regular fa-signature fa-fw mr-1 text-primary"></i></span>
+      <h2 class="font-weight-normal my-1">Name</h2>
+    </li>
+  </ul>
+</div>
+<!----------------------------------->
+<div class="row no-gutters">
+<!------- OC BASICS ----------------->
+<div class="col-lg-3 col-12">
+  <div class="row no-gutters">
+    <div class="px-3 pt-lg-4 pt-2 pb-2 row no-gutters">
+<!-- GENDER ------------------------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li"><i class="fa-regular fa-transgender fa-fw mr-1 text-primary"></i></span>
+      Gender
+    </li>
+  </ul>
+</div>
+<!-- PROUNONS ----------------------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li"><i class="fa-regular fa-tags fa-fw mr-1 text-primary"></i></span>
+      Prounons
+    </li>
+  </ul>
+</div>
+<!-- SPECIES ----------------------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li"><i class="fa-regular fa-person-rays fa-fw mr-1 text-primary"></i></span>
+      Species
+    </li>
+  </ul>
+</div>
+<!-- ORIENTATION ------------------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li"><i class="fa-regular fa-heart-pulse fa-fw mr-1 text-primary"></i></span>
+      Orientation
+    </li>
+  </ul>
+</div>
+<!-- OC BASICS LIST END ------------>
+    </div>
+  </div>
+</div>
+<!------- OC INTRO AND HOOKS ------->
+<div class="col-lg-9 col-12 overflow-auto" style="height:180px;">
+    <p class="my-auto text-justify p-3">
+      <i>
+        Short introduction to character here.
+      </i>
+    </p>
+<!------------->
+<div class="row no-gutters mt-1">
+  <div class="col-12 col-lg-12 pb-2 pr-lg-2">
+    <p class="text-justify p-1">
+      Talk about your character and you roleplaying them here.
+    </p>
+  </div>
+<!-- HOOKS -------------------------->
+<div class="col-lg-12 col-12 p-lg-0 p-2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li"><i class="fa-regular fa-lightbulb-on fa-fw mr-1 text-primary"></i></span>
+      HOOKS
+    </li>
+  </ul>
+<div class="row no-gutters">
+<div class="px-3 pt-2 pb-2 row no-gutters">
+<!-- HOOKS START -------------------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li"><i class="fa-regular fa-circle-small fa-fw mr-1 text-primary"></i></span>
+      List various rp starter ideas centered around your character. I.E: OC is so focused on getting to work on time that they aren't paying attention to traffic as they start to cross the street. Suddenly, someone tackles them, dragging them to the pavement. Seconds later a car speeds by... right where OC had been standing. In shock but thankful, OC turns to their savior and offers to buy them lunch. (OC is saved by your OC and offers to repay them.)
+    </li>
+<!----------------------------------->
+    <li>
+      <span class="fa-li"><i class="fa-regular fa-circle-small fa-fw mr-1 text-primary"></i></span>
+      Hook
+    </li>
+<!----------------------------------->
+    <li>
+      <span class="fa-li"><i class="fa-regular fa-circle-small fa-fw mr-1 text-primary"></i></span>
+      Hook
+    </li>
+<!----------------------------------->
+    <li>
+      <span class="fa-li"><i class="fa-regular fa-circle-small fa-fw mr-1 text-primary"></i></span>
+      Hook
+    </li>
+<!------- ADD MORE HOOKS ABOVE THIS LINE ------->
+  </ul>
+</div>
+<!-- HOOKS END ---------------------->
+    </div>
+</div>
+<!----------------------------------->
+</div>
+<!------- OC END -------------------->
+</div>
+</div>
+</div>
+</div>
+</div>
+<!------- OC ------------------------>
+<div class="row no-gutters">
+<div class="col-12 card bg-primary rounded-0 border-1 mt-1 mb-1"></div>
+<!------- OC ICON ------------------->
+  <div class="col-lg-3 col-12 pt-lg-3">
+    <div class="px-3 justify-content-center">
+      <a href="character profile url">
+        <img src="https://cdn.discordapp.com/attachments/1077096432458276994/1077096532794421268/unknown.png" style="border-radius:50%;" class="fr-fic fr-dii" width="180px" height="180px">
+      </a>
+    </div>
+  </div>
+<!----------------------------------->
+<div class="col-lg-9 col-12">
+<!------- OC NAME ------------------->
+<div class="col-lg-12 col-12 p-2 mb-n3">
+  <ul class="fa-ul mb-0 ml-lg-2">
+    <li>
+      <span class="fa-li"><i class="fa-regular fa-signature fa-fw mr-1 text-primary"></i></span>
+      <h2 class="font-weight-normal my-1">Name</h2>
+    </li>
+  </ul>
+</div>
+<!----------------------------------->
+<div class="row no-gutters">
+<!------- OC BASICS ----------------->
+<div class="col-lg-3 col-12">
+  <div class="row no-gutters">
+    <div class="px-3 pt-lg-4 pt-2 pb-2 row no-gutters">
+<!-- GENDER ------------------------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li"><i class="fa-regular fa-transgender fa-fw mr-1 text-primary"></i></span>
+      Gender
+    </li>
+  </ul>
+</div>
+<!-- PROUNONS ----------------------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li"><i class="fa-regular fa-tags fa-fw mr-1 text-primary"></i></span>
+      Prounons
+    </li>
+  </ul>
+</div>
+<!-- SPECIES ----------------------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li"><i class="fa-regular fa-person-rays fa-fw mr-1 text-primary"></i></span>
+      Species
+    </li>
+  </ul>
+</div>
+<!-- ORIENTATION ------------------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li"><i class="fa-regular fa-heart-pulse fa-fw mr-1 text-primary"></i></span>
+      Orientation
+    </li>
+  </ul>
+</div>
+<!-- OC BASICS LIST END ------------>
+    </div>
+  </div>
+</div>
+<!------- OC INTRO AND HOOKS ------->
+<div class="col-lg-9 col-12 overflow-auto" style="height:180px;">
+    <p class="my-auto text-justify p-3">
+      <i>
+        Short introduction to character here.
+      </i>
+    </p>
+<!------------->
+<div class="row no-gutters mt-1">
+  <div class="col-12 col-lg-12 pb-2 pr-lg-2">
+    <p class="text-justify p-1">
+      Talk about your character and you roleplaying them here.
+    </p>
+  </div>
+<!-- HOOKS -------------------------->
+<div class="col-lg-12 col-12 p-lg-0 p-2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li"><i class="fa-regular fa-lightbulb-on fa-fw mr-1 text-primary"></i></span>
+      HOOKS
+    </li>
+  </ul>
+<div class="row no-gutters">
+<div class="px-3 pt-2 pb-2 row no-gutters">
+<!-- HOOKS START -------------------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li"><i class="fa-regular fa-circle-small fa-fw mr-1 text-primary"></i></span>
+      Hook
+    </li>
+<!----------------------------------->
+    <li>
+      <span class="fa-li"><i class="fa-regular fa-circle-small fa-fw mr-1 text-primary"></i></span>
+      Hook
+    </li>
+<!----------------------------------->
+    <li>
+      <span class="fa-li"><i class="fa-regular fa-circle-small fa-fw mr-1 text-primary"></i></span>
+      Hook
+    </li>
+<!----------------------------------->
+    <li>
+      <span class="fa-li"><i class="fa-regular fa-circle-small fa-fw mr-1 text-primary"></i></span>
+      Hook
+    </li>
+<!------- ADD MORE HOOKS ABOVE THIS LINE ------->
+  </ul>
+</div>
+<!-- HOOKS END ---------------------->
+    </div>
+</div>
+<!----------------------------------->
+</div>
+<!------- OC END -------------------->
+</div>
+</div>
+</div>
+</div>
+</div>
+<!------- OC ------------------------>
+<div class="row no-gutters">
+<div class="col-12 card bg-primary rounded-0 border-1 mt-1 mb-1"></div>
+<!------- OC ICON ------------------->
+  <div class="col-lg-3 col-12 pt-lg-3">
+    <div class="px-3 justify-content-center">
+      <a href="character profile url">
+        <img src="https://cdn.discordapp.com/attachments/1077096432458276994/1077096532794421268/unknown.png" style="border-radius:50%;" class="fr-fic fr-dii" width="180px" height="180px">
+      </a>
+    </div>
+  </div>
+<!----------------------------------->
+<div class="col-lg-9 col-12">
+<!------- OC NAME ------------------->
+<div class="col-lg-12 col-12 p-2 mb-n3">
+  <ul class="fa-ul mb-0 ml-lg-2">
+    <li>
+      <span class="fa-li"><i class="fa-regular fa-signature fa-fw mr-1 text-primary"></i></span>
+      <h2 class="font-weight-normal my-1">Name</h2>
+    </li>
+  </ul>
+</div>
+<!----------------------------------->
+<div class="row no-gutters">
+<!------- OC BASICS ----------------->
+<div class="col-lg-3 col-12">
+  <div class="row no-gutters">
+    <div class="px-3 pt-lg-4 pt-2 pb-2 row no-gutters">
+<!-- GENDER ------------------------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li"><i class="fa-regular fa-transgender fa-fw mr-1 text-primary"></i></span>
+      Gender
+    </li>
+  </ul>
+</div>
+<!-- PROUNONS ----------------------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li"><i class="fa-regular fa-tags fa-fw mr-1 text-primary"></i></span>
+      Prounons
+    </li>
+  </ul>
+</div>
+<!-- SPECIES ----------------------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li"><i class="fa-regular fa-person-rays fa-fw mr-1 text-primary"></i></span>
+      Species
+    </li>
+  </ul>
+</div>
+<!-- ORIENTATION ------------------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li"><i class="fa-regular fa-heart-pulse fa-fw mr-1 text-primary"></i></span>
+      Orientation
+    </li>
+  </ul>
+</div>
+<!-- OC BASICS LIST END ------------>
+    </div>
+  </div>
+</div>
+<!------- OC INTRO AND HOOKS ------->
+<div class="col-lg-9 col-12 overflow-auto" style="height:180px;">
+    <p class="my-auto text-justify p-3">
+      <i>
+        Short introduction to character here.
+      </i>
+    </p>
+<!------------->
+<div class="row no-gutters mt-1">
+  <div class="col-12 col-lg-12 pb-2 pr-lg-2">
+    <p class="text-justify p-1">
+      Talk about your character and you roleplaying them here.
+    </p>
+  </div>
+<!-- HOOKS -------------------------->
+<div class="col-lg-12 col-12 p-lg-0 p-2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li"><i class="fa-regular fa-lightbulb-on fa-fw mr-1 text-primary"></i></span>
+      HOOKS
+    </li>
+  </ul>
+<div class="row no-gutters">
+<div class="px-3 pt-2 pb-2 row no-gutters">
+<!-- HOOKS START -------------------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li"><i class="fa-regular fa-circle-small fa-fw mr-1 text-primary"></i></span>
+      Hook
+    </li>
+<!----------------------------------->
+    <li>
+      <span class="fa-li"><i class="fa-regular fa-circle-small fa-fw mr-1 text-primary"></i></span>
+      Hook
+    </li>
+<!----------------------------------->
+    <li>
+      <span class="fa-li"><i class="fa-regular fa-circle-small fa-fw mr-1 text-primary"></i></span>
+      Hook
+    </li>
+<!----------------------------------->
+    <li>
+      <span class="fa-li"><i class="fa-regular fa-circle-small fa-fw mr-1 text-primary"></i></span>
+      Hook
+    </li>
+<!------- ADD MORE HOOKS ABOVE THIS LINE ------->
+  </ul>
+</div>
+<!-- HOOKS END ---------------------->
+    </div>
+</div>
+<!----------------------------------->
+</div>
+<!------- OC END -------------------->
+</div>
+</div>
+</div>
+</div>
+</div>
+<!------- OC ------------------------>
+<div class="row no-gutters">
+<div class="col-12 card bg-primary rounded-0 border-1 mt-1 mb-1"></div>
+<!------- OC ICON ------------------->
+  <div class="col-lg-3 col-12 pt-lg-3">
+    <div class="px-3 justify-content-center">
+      <a href="character profile url">
+        <img src="https://cdn.discordapp.com/attachments/1077096432458276994/1077096532794421268/unknown.png" style="border-radius:50%;" class="fr-fic fr-dii" width="180px" height="180px">
+      </a>
+    </div>
+  </div>
+<!----------------------------------->
+<div class="col-lg-9 col-12">
+<!------- OC NAME ------------------->
+<div class="col-lg-12 col-12 p-2 mb-n3">
+  <ul class="fa-ul mb-0 ml-lg-2">
+    <li>
+      <span class="fa-li"><i class="fa-regular fa-signature fa-fw mr-1 text-primary"></i></span>
+      <h2 class="font-weight-normal my-1">Name</h2>
+    </li>
+  </ul>
+</div>
+<!----------------------------------->
+<div class="row no-gutters">
+<!------- OC BASICS ----------------->
+<div class="col-lg-3 col-12">
+  <div class="row no-gutters">
+    <div class="px-3 pt-lg-4 pt-2 pb-2 row no-gutters">
+<!-- GENDER ------------------------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li"><i class="fa-regular fa-transgender fa-fw mr-1 text-primary"></i></span>
+      Gender
+    </li>
+  </ul>
+</div>
+<!-- PROUNONS ----------------------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li"><i class="fa-regular fa-tags fa-fw mr-1 text-primary"></i></span>
+      Prounons
+    </li>
+  </ul>
+</div>
+<!-- SPECIES ----------------------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li"><i class="fa-regular fa-person-rays fa-fw mr-1 text-primary"></i></span>
+      Species
+    </li>
+  </ul>
+</div>
+<!-- ORIENTATION ------------------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li"><i class="fa-regular fa-heart-pulse fa-fw mr-1 text-primary"></i></span>
+      Orientation
+    </li>
+  </ul>
+</div>
+<!-- OC BASICS LIST END ------------>
+    </div>
+  </div>
+</div>
+<!------- OC INTRO AND HOOKS ------->
+<div class="col-lg-9 col-12 overflow-auto" style="height:180px;">
+    <p class="my-auto text-justify p-3">
+      <i>
+        Short introduction to character here.
+      </i>
+    </p>
+<!------------->
+<div class="row no-gutters mt-1">
+  <div class="col-12 col-lg-12 pb-2 pr-lg-2">
+    <p class="text-justify p-1">
+      Talk about your character and you roleplaying them here.
+    </p>
+  </div>
+<!-- HOOKS -------------------------->
+<div class="col-lg-12 col-12 p-lg-0 p-2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li"><i class="fa-regular fa-lightbulb-on fa-fw mr-1 text-primary"></i></span>
+      HOOKS
+    </li>
+  </ul>
+<div class="row no-gutters">
+<div class="px-3 pt-2 pb-2 row no-gutters">
+<!-- HOOKS START -------------------->
+<div class="col-lg-12 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li"><i class="fa-regular fa-circle-small fa-fw mr-1 text-primary"></i></span>
+      Hook
+    </li>
+<!----------------------------------->
+    <li>
+      <span class="fa-li"><i class="fa-regular fa-circle-small fa-fw mr-1 text-primary"></i></span>
+      Hook
+    </li>
+<!----------------------------------->
+    <li>
+      <span class="fa-li"><i class="fa-regular fa-circle-small fa-fw mr-1 text-primary"></i></span>
+      Hook
+    </li>
+<!----------------------------------->
+    <li>
+      <span class="fa-li"><i class="fa-regular fa-circle-small fa-fw mr-1 text-primary"></i></span>
+      Hook
+    </li>
+<!------- ADD MORE HOOKS ABOVE THIS LINE ------->
+  </ul>
+</div>
+<!-- HOOKS END ---------------------->
+    </div>
+</div>
+<!----------------------------------->
+</div>
+<!------- OC END -------------------->
+</div>
+</div>
+</div>
+</div>
+</div>
+<!------- ADD MORE OCS ABOVE THIS LINE ------->
+<div class="col-12 card rounded-0 border-0"><p><br></p></div>
+</div>
+<!-- MY OCS END --------------------->
+<!----------------------------------->
+<!-- WRITING SAMPLES ---------------->
+<div class="col-12 mt-2 card rounded-0 border-0">
+  <div class="p-2 font-weight-bold text-center" style="font-size: 17px; color: #fff; letter-spacing: 1px;">
+    <span class="pull-left"></span>
+    <span class="text-primary">Writing Samples</span>
+    <span class="pull-right"></span>
+  </div>
+<div>
+  <p class="text-justify pt-lg-4 p-3">
+    Write a little description here if you want. Some examples of your writing go below. The tabs collapse, so you can put as many as you want.
+  </p>
+</div>
+</div>
+<!----------------------------------->
+<div id="ACCORDION" class="accordian card rounded-0 border-0 mb-2">
+<ul class="nav row no-gutters text-uppercase text-center" style="letter-spacing: 1px; margin-top: 16px;">
+<li class="col-4 nav-item" style="overflow:hidden; padding-bottom:2px;"><a class="btn nav-link rounded-0 collapsed" data-toggle="collapse" href="#W-1">Sample</a></li>
+<li class="col-4 nav-item" style="overflow:hidden; padding-bottom:2px;"><a class="btn nav-link rounded-0 collapsed" data-toggle="collapse" href="#W-2">Sample</a></li>
+<li class="col-4 nav-item" style="overflow:hidden; padding-bottom:2px;"><a class="btn nav-link rounded-0 collapsed" data-toggle="collapse" href="#W-3">Sample</a></li>
+<!------- ADD MORE SAMPLE TABS ABOVE THIS LINE ------->
+</ul>
+<!----------------------------------->
+<!-- SAMPLE DROPDOWN START ---------->
+<!----------------------------------->
+<div class="collapse" data-parent="#ACCORDION" id="W-1">
+    <div class="px-3 pt-lg-4 pt-2 pb-2 row no-gutters">
+<!-- FEATURED CHARACTER(S) ---------->
+<div class="col-lg-4 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li"><i class="fa-regular fa-person-rays fa-fw mr-1 text-primary"></i></span>
+      FEATURED CHARACTER(S)
+    </li>
+    <li>
+      <span class="flex-column">
+        <span><a href="url here">Name</a></span>
+        <span><a href="url here">Name</a></span>
+        <span><a href="url here">Name</a></span>
+      </span>
+    </li>
+  </ul>
+</div>
+<!-- FROM ----------------------->
+<div class="col-lg-4 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li"><i class="fa-regular fa-books fa-fw mr-1 text-primary"></i></span>
+      FROM
+    </li>
+    <li>Is this from a roleplay with someone?</li>
+    <li>Is it solo writing by you?</li>
+  </ul>
+</div>
+<!-- CONTENT WARNINGS ---------------------------->
+<div class="col-lg-4 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li"><i class="fa-regular fa-do-not-enter fa-fw mr-1 text-primary"></i></span>
+      CONTENT WARNINGS
+    </li>
+    <li>Warning</li>
+    <li>Warning</li>
+    <li>Warning</li>
+  </ul>
+</div>
+<!----------------------------------->
+</div>
+<!----------------------------------->
+<div class="overflow-auto mt-1" style="max-height:230px;">
+  <p class="text-justify p-3">
+  This box scrolls. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vulputate odio ut enim blandit. Proin sagittis nisl rhoncus mattis rhoncus. Ultricies tristique nulla aliquet enim. Massa massa ultricies mi quis hendrerit. Quam vulputate dignissim suspendisse in est. Turpis egestas sed tempus urna et. Ultrices tincidunt arcu non sodales neque sodales ut etiam sit. Lorem dolor sed viverra ipsum nunc. Ac tincidunt vitae semper quis lectus nulla. Tristique senectus et netus et malesuada.
+  <br><br>
+  Ac orci phasellus egestas tellus rutrum tellus pellentesque eu. Lorem mollis aliquam ut porttitor. Facilisis gravida neque convallis a. Purus sit amet luctus venenatis. Facilisis sed odio morbi quis commodo odio aenean sed adipiscing. Nec feugiat nisl pretium fusce id velit ut tortor pretium. Ullamcorper malesuada proin libero nunc. Urna duis convallis convallis tellus id interdum velit laoreet. Vitae sapien pellentesque habitant morbi tristique senectus et netus et. Pulvinar pellentesque habitant morbi tristique senectus et netus et malesuada. Ante metus dictum at tempor commodo ullamcorper a lacus. Sollicitudin tempor id eu nisl. Ultrices eros in cursus turpis massa tincidunt dui ut ornare. At in tellus integer feugiat scelerisque varius morbi enim nunc. Donec massa sapien faucibus et molestie ac. Lorem ipsum dolor sit amet consectetur adipiscing elit pellentesque.
+  <br><br>
+  Consectetur a erat nam at lectus urna duis convallis convallis. Non odio euismod lacinia at quis risus sed. Fermentum dui faucibus in ornare quam viverra orci. Leo duis ut diam quam nulla. Tempus urna et pharetra pharetra. Tortor pretium viverra suspendisse potenti nullam ac tortor vitae purus. Posuere morbi leo urna molestie at elementum eu facilisis. Faucibus a pellentesque sit amet porttitor. Justo eget magna fermentum iaculis eu non diam phasellus vestibulum. Lacus viverra vitae congue eu consequat ac felis. Vitae congue mauris rhoncus aenean vel elit scelerisque mauris pellentesque. Duis ut diam quam nulla porttitor. Mauris nunc congue nisi vitae. Tristique et egestas quis ipsum suspendisse ultrices gravida. Et pharetra pharetra massa massa ultricies. Gravida cum sociis natoque penatibus et magnis dis parturient. Sapien faucibus et molestie ac feugiat sed lectus.
+  </p>
+</div>
+<!-- SAMPLE DROPDOWN END ------------>
+</div>
+<!----------------------------------->
+<!-- SAMPLE DROPDOWN START ---------->
+<!----------------------------------->
+<div class="collapse" data-parent="#ACCORDION" id="W-2">
+    <div class="px-3 pt-lg-4 pt-2 pb-2 row no-gutters">
+<!-- FEATURED CHARACTER(S) ---------->
+<div class="col-lg-4 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li"><i class="fa-regular fa-person-rays fa-fw mr-1 text-primary"></i></span>
+      FEATURED CHARACTER(S)
+    </li>
+    <li>
+      <span class="flex-column">
+        <span><a href="url here">Name</a></span>
+        <span><a href="url here">Name</a></span>
+        <span><a href="url here">Name</a></span>
+      </span>
+    </li>
+  </ul>
+</div>
+<!-- FROM ----------------------->
+<div class="col-lg-4 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li"><i class="fa-regular fa-books fa-fw mr-1 text-primary"></i></span>
+      FROM
+    </li>
+    <li>Is this from a roleplay with someone?</li>
+    <li>Is it solo writing by you?</li>
+  </ul>
+</div>
+<!-- CONTENT WARNINGS ---------------------------->
+<div class="col-lg-4 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li"><i class="fa-regular fa-do-not-enter fa-fw mr-1 text-primary"></i></span>
+      CONTENT WARNINGS
+    </li>
+    <li>Warning</li>
+    <li>Warning</li>
+    <li>Warning</li>
+  </ul>
+</div>
+<!----------------------------------->
+</div>
+<!----------------------------------->
+<div class="overflow-auto mt-1" style="max-height:230px;">
+  <p class="text-justify p-3">
+    Sample Writing
+  </p>
+</div>
+<!-- SAMPLE DROPDOWN END ------------>
+</div>
+<!----------------------------------->
+<!-- SAMPLE DROPDOWN START ---------->
+<!----------------------------------->
+<div class="collapse" data-parent="#ACCORDION" id="W-3">
+    <div class="px-3 pt-lg-4 pt-2 pb-2 row no-gutters">
+<!-- FEATURED CHARACTER(S) ---------->
+<div class="col-lg-4 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li"><i class="fa-regular fa-person-rays fa-fw mr-1 text-primary"></i></span>
+      FEATURED CHARACTER(S)
+    </li>
+    <li>
+      <span class="flex-column">
+        <span><a href="url here">Name</a></span>
+        <span><a href="url here">Name</a></span>
+        <span><a href="url here">Name</a></span>
+      </span>
+    </li>
+  </ul>
+</div>
+<!-- FROM ----------------------->
+<div class="col-lg-4 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li"><i class="fa-regular fa-books fa-fw mr-1 text-primary"></i></span>
+      FROM
+    </li>
+    <li>Is this from a roleplay with someone?</li>
+    <li>Is it solo writing by you?</li>
+  </ul>
+</div>
+<!-- CONTENT WARNINGS ---------------------------->
+<div class="col-lg-4 col-12 p-2 mt-n2">
+  <ul class="fa-ul mb-0 ml-4">
+    <li>
+      <span class="fa-li"><i class="fa-regular fa-do-not-enter fa-fw mr-1 text-primary"></i></span>
+      CONTENT WARNINGS
+    </li>
+    <li>Warning</li>
+    <li>Warning</li>
+    <li>Warning</li>
+  </ul>
+</div>
+<!----------------------------------->
+</div>
+<!----------------------------------->
+<div class="overflow-auto mt-1" style="max-height:230px;">
+  <p class="text-justify p-3">
+    Sample Writing
+  </p>
+</div>
+<!-- SAMPLE DROPDOWN END ------------>
+</div>
+<!------- ADD MORE SAMPLE DROPDOWNS ABOVE THIS LINE ------->
+<!-- WRITING SAMPLES END ------------>
+<div class="col-12 card rounded-0 border-0"><p><br></p></div>
+</div>
+<!-- MY OCS & WRITING END ----------->
+  </div>
+</div>
+<!----------------------------------->
+<!----------------------------------->
+<!-- EXTRAS ------------------------->
+<div id="VIII">
+  <div class="col-12 mb-lg-0">
+<!----------------------------------->
+<!----------------------------------->
+<div class="card bg-dark rounded-0 border-0 p-2 mb-2 font-weight-bold text-center text-primary" style="font-size: 17px; letter-spacing: 1px;">
+  <span>
+  <span class="pull-left"><i class="fal fa-circle-question px-1" style="font-size:26px;"></i></span>
+  <span class="text-primary">EXTRAS</span>
+  <span class="pull-right"><i class="fal fa-circle-question px-1" style="font-size:26px;"></i></span>
+  </span>
+</div>
+<!-- EXTRAS START ------------------->
+<div class="card rounded-0 border-0">
+<!----------------------------------->
+<div class="p-3 text-justify">
+  <p>
+    Add whatever extra information you want to here.
+  </p>
+</div>
+<!----------------------------------->
+<div class="col-12 card bg-primary rounded-0 border-1 mt-1 mb-1"></div>
+<!----------------------------------->
+<div class="p-3 text-justify">
+  <p>
+    Add whatever extra information you want to here.
+  </p>
+</div>
+<!----------------------------------->
+<div class="col-12 card bg-primary rounded-0 border-1 mt-1 mb-1"></div>
+<!----------------------------------->
+<div class="p-3 text-justify">
+  <p>
+    Add whatever extra information you want to here.
+  </p>
+</div>
+<!-- EXTRAS END --------------------->
+    </div>
+  </div>
+</div>
+<!-- BOX END --------------------->
+</div>
+
+<!----------------------------------->
+<!----------------------------------->
+<!-- KEY ---------------------------->
+<div class="col-lg-1 col-4" style="position:fixed; bottom:0; right:0; z-index:99999;">
+  <div class="key">
+<!----------------------------------->
+<!----------------------------------->
+<div class="sticky">
+  <div class="bg-faded px-2 py-2">
+    <a class="btn rounded-0 col-lg-12 p-1 font-weight-bold" style="letter-spacing: 2px; font-size: 15px;" data-toggle="collapse" href="#TOGGLE-KEY">
+      Key
+    </a>
+    <div class="accordian" div class="TOGGLE-KEY">
+      <div class="collapse" id="TOGGLE-KEY">               
+<!-- KEY START ---------------------->
+<div class="card key border-0 rounded-0">
+  <div class="card border-0 rounded-0">
+<!-- YES ---------------------------->
+<ul class="fa-ul mb-0 pb-0" style="font-size: 13px;">
+  <li>
+    <span class="fa-li">
+      <!-- ICON --> 
+      <i class="fa-solid fa-circle-check text-success fa-fw fa-sm mr-1"></i>
+    </span> YES
+  </li>
+</ul>
+<!-- NO/X --------------------------->
+<ul class="fa-ul mb-0 pb-0" style="font-size: 13px;">
+  <li>
+    <span class="fa-li">
+      <!-- ICON --> 
+      <i class="fa-solid fa-circle-x text-danger fa-fw fa-sm mr-1"></i>
+    </span> NO
+  </li>
+</ul>
+<!-- ASK/MAYBE/WARNING -------------->
+<ul class="fa-ul mb-0 pb-0" style="font-size: 13px;">
+  <li>
+    <span class="fa-li">
+      <!-- ICON --> 
+      <i class="fa-solid fa-circle-ellipsis text-warning fa-fw fa-sm mr-1"></i>
+     </span> ASK
+   </li>
+</ul>
+<!-- FAVORITE ----------------------->
+<ul class="fa-ul mb-0 pb-0" style="font-size: 13px;">
+  <li>
+    <span class="fa-li">
+      <!-- ICON --> 
+      <i class="fa-solid fa-circle-heart fa-fw fa-sm mr-1" style="color:#BD00F6"></i>
+    </span> FAV
+  </li>
+</ul>
+<!-- BLANK -------------------------->
+<ul class="fa-ul mb-0 pb-0" style="font-size: 13px;">
+  <li>
+    <span class="fa-li">
+      <!-- ICON --> 
+      <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
+    </span> BLANK
+  </li>
+</ul>
+<!----------------------------------->
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!----------------------------------->
