@@ -1,29 +1,36 @@
 <!---------------- HOW TO USE ------------------->
 <!-----------------------------------------------
 --- Color Key ---
-Checkmark/Yes color: text-success
-Warning/Ask color: text-warning
-X/No color: text-danger
-Favorite color: #BD00F6 (to change, google a hex color code picker and change numbers.)
+Checkmark/Yes font awesome color: text-success
+Warning/Ask font awesome color: text-warning
+X/No font awesome color: text-danger
+Favorite font awesome color: #BD00F6 (to change, google a hex color code picker and change numbers.)
+If you want to change the colors of checkmark, warning and x, just add a style="color:#hexcolorcodegoeshere;" after class in the font awesome comfort level keys further down.
+If having issues changing colors to custom ones for font awesome comfort level icons, check and make sure to remove any text-success/warning/danger in the class section of the specific code.
+
 Main Background: bg-faded
 Title Card Background: bg-dark
 You may have to change around the background colors depending on your site theme.
 You can choose from: bg-faded, bg-light, and bg-dark. Just replace the corresponding bg- with what you want.
 
---- Font Awesome Key ---
-Yes
+--- Font Awesome/Comfort Level Key ---
+Insert these under where there is comfort level line in the code.
+Only replace the one line of code directly under the words comfort level. If you replace </span> Text Here, you have replaced too far.
+
+Yes (circle checkmark for yes, copy and paste this code where desired
 <i class="fa-solid fa-circle-check text-success fa-fw fa-sm mr-1"></i>
 
-Warning/Ask
+Warning/Ask (triangle with an exclamation point for ask, copy and paste this code where desired)
 <i class="fa-solid fa-triangle-exclamation text-warning fa-fw fa-sm mr-1"></i>
 
-X/No
+X/No (circle with an x for no, copy and pase this code where desired)
 <i class="fa-solid fa-circle-x text-danger fa-fw fa-sm mr-1"></i>
 
-Favorite
+Favorite (circle with a heart for favorite, copy and paste this code where desired)
 <i class="fa-solid fa-circle-heart fa-fw fa-sm mr-1" style="color:#BD00F6"></i>
 
-Blank
+Blank (for blank white circle, copy and paste this code where desired. By default all comfort level areas are set to this. 
+This is the code you must replace with any of the others to change them to a different font awesome icon)
 <i class="fa-solid fa-circle text-white fa-fw fa-sm mr-1"></i>
 
 
